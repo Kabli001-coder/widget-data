@@ -177,7 +177,7 @@ if (!data) {
 
   label(right, "LIVERPOOL")
   const games = (data.liverpool || []).filter(g => new Date(g.time).getTime() > Date.now() - 2 * 3600000)
-  for (const g of games.slice(0, 3)) {
+  for (const g of games.slice(0, 2)) {
     item(right, g.opp + " (" + g.venue + ")", g.comp + " · " + fmt(new Date(g.time), "EEE d MMM, h:mm a"))
   }
 
