@@ -1,0 +1,20 @@
+{
+  "updated": "Nov 10",
+  "deadline": { "gw": 11, "time": "2026-11-21T11:00:00Z" },
+  "liverpool": [
+    { "opp": "Man United", "venue": "H", "comp": "PL", "time": "2026-11-22T16:30:00Z" },
+    { "opp": "Club Brugge", "venue": "A", "comp": "UCL", "time": "2026-11-25T20:00:00Z" },
+    { "opp": "Everton", "venue": "A", "comp": "PL", "time": "2026-11-29T12:00:00Z" },
+    { "opp": "Sunderland", "venue": "H", "comp": "PL", "time": "2026-12-02T19:30:00Z" }
+  ],
+  "problems": [
+    "Banned GW11: Thiago, Mateta, Dowman",
+    "Injured: Xhaka (calf), Joao Pedro",
+    "One yellow from ban: Mac Allister, Tavernier"
+  ],
+  "big": [
+    "Thu 12: England v Croatia, Italy v France",
+    "Sun 15: Spain v England, France v Turkiye",
+    "Mon 16: Germany v Netherlands"
+  ]
+}
