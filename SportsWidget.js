@@ -199,7 +199,9 @@ if (!data) {
   // Your gameweek points and league positions, with up/down arrows
   if (fpl) {
     left.addSpacer(10)
-    centeredText(left, "GW" + fpl.current_event + " · " + fpl.summary_event_points + " pts", Font.semiboldSystemFont(12), WHITE)
+    const pts = centeredText(left, "GW" + fpl.current_event + ": " + fpl.summary_event_points + " pts", Font.semiboldSystemFont(11), WHITE)
+    pts.lineLimit = 1
+    pts.minimumScaleFactor = 0.6
     left.addSpacer(4)
     for (const [name, l] of fplRows()) {
       const r = left.addStack()
