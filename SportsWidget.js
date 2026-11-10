@@ -185,7 +185,21 @@ if (!data) {
   if (padel.length) {
     right.addSpacer(4)
     label(right, "PADEL")
-    for (const p of padel.slice(0, 3)) item(right, p.title, p.sub)
+    for (const p of padel.slice(0, 3)) {
+      item(right, p.title, p.sub)
+      // Optional detail lines, e.g. one per junior category with names and score
+      if (p.lines && p.lines.length) {
+        right.addSpacer(-3)
+        for (const line of p.lines.slice(0, 3)) {
+          const t = right.addText(line)
+          t.font = Font.systemFont(9.5)
+          t.textColor = AMBER
+          t.lineLimit = 1
+          t.minimumScaleFactor = 0.7
+        }
+        right.addSpacer(5)
+      }
+    }
   }
 
   const big = (data.big || []).map(parts)
