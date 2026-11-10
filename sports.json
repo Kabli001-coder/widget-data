@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 10",
+  "updated": "Nov 11",
   "deadline": { "gw": 11, "time": "2026-11-21T11:00:00Z" },
   "liverpool": [
     { "opp": "Man United", "venue": "H", "comp": "PL", "time": "2026-11-22T16:30:00Z" },
@@ -8,16 +8,16 @@
     { "opp": "Sunderland", "venue": "H", "comp": "PL", "time": "2026-12-02T19:30:00Z" }
   ],
   "problems": [
-    "Virgil: doubt, 75% to play",
+    "Virgil: unfit, left Dutch squad",
     "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
-    { "title": "KSA juniors v Japan, Australia", "sub": "Asia Junior Cup · Nov 11-12, times TBC" },
+    { "title": "KSA juniors v Japan, Australia", "sub": "Kuwait score not out; Nov 11-12 TBC" },
     { "title": "Dubai P1 semi-finals", "sub": "Sat 14 Nov, from 3:00 PM" },
     { "title": "Dubai P1 men's final", "sub": "Sun 15 Nov, not before 7:00 PM" }
   ],
   "big": [
-    { "title": "England v Croatia", "sub": "Thu 12 Nov" },
-    { "title": "Spain v England", "sub": "Sun 15 Nov" }
+    { "title": "England v Croatia", "sub": "Thu 12 Nov, 10:45 PM" },
+    { "title": "Spain v England", "sub": "Sun 15 Nov, 10:45 PM" }
   ]
 }
