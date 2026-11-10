@@ -1,0 +1,29 @@
+{
+  "updated": "Nov 10",
+  "items": [
+    {
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
+      "text": "Preload live on PS5 and Xbox (212GB). Out Nov 19. No PC or Switch 2 date.",
+      "url": "https://unboxholics.com/en/news/gaming/138685-new-gta-6-trailer-just-dropped"
+    },
+    {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Passes 25M units. Zelda Ocarina remake off to a great start.",
+      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-being-off-to-a-great-start-proves-switch-2-price-hike-isnt-slowing-momentum-nintendo-president-says/"
+    },
+    {
+      "tag": "Luna Ultra",
+      "color": "#ffd60a",
+      "text": "Nothing new today. Latest update added 15x zoom and Stage Mode.",
+      "url": "https://www.prnewswire.com/news-releases/insta360-releases-luna-ultra-firmware-update-with-enhanced-zoom-stage-mode-and-more-302884413.html"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic releases Claude Fable 5.2 and Mythos 5.2.",
+      "url": "https://aiweekly.co/ai-news-today"
+    }
+  ]
+}
