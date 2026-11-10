@@ -47,6 +47,40 @@ function fplRows() {
   return rows
 }
 
+// Player problems worked out live from your actual squad (flags, bans, yellow cards)
+async function liveProblems() {
+  if (!fpl || !fpl.current_event) return null
+  const cache = fm.joinPath(fm.cacheDirectory(), "claude-fpl-problems.json")
+  try {
+    const api = "https://fantasy.premierleague.com/api/"
+    const pr = new Request(api + "entry/" + FPL_TEAM_ID + "/event/" + fpl.current_event + "/picks/")
+    pr.timeoutInterval = 15
+    const picks = await pr.loadJSON()
+    const br = new Request(api + "bootstrap-static/")
+    br.timeoutInterval = 20
+    const boot = await br.loadJSON()
+    const byId = {}
+    for (const e of boot.elements) byId[e.id] = e
+    const out = [], yellows = []
+    for (const p of picks.picks.sort((a, b) => a.position - b.position)) {
+      const e = byId[p.element]
+      if (!e) continue
+      const c = e.chance_of_playing_next_round
+      if (e.status === "s") out.push(e.web_name + ": suspended")
+      else if (e.status === "i") out.push(e.web_name + ": injured")
+      else if (e.status === "u" || e.status === "n") out.push(e.web_name + ": unavailable")
+      else if (e.status === "d") out.push(e.web_name + ": doubt" + (c != null ? ", " + c + "%" : ""))
+      else if (fpl.current_event < 19 && e.yellow_cards === 4) yellows.push(e.web_name)
+    }
+    if (yellows.length) out.push(yellows.join(", ") + ": 1 yellow off ban")
+    if (!out.length) out.push("Your squad: all fit")
+    fm.writeString(cache, JSON.stringify(out))
+    return out
+  } catch (e) {
+    return fm.fileExists(cache) ? JSON.parse(fm.readString(cache)) : null
+  }
+}
+
 const DIM = new Color("#ffffff", 0.6)
 const WHITE = Color.white()
 const GREEN = new Color("#34c759")
@@ -224,8 +258,9 @@ if (!data) {
     }
   }
   left.addSpacer(10)
-  for (const p of (data.problems || []).slice(0, 2)) {
-    const t = centeredText(left, p, Font.systemFont(10), AMBER)
+  const problems = (await liveProblems()) || data.problems || []
+  for (const p of problems.slice(0, 3)) {
+    const t = centeredText(left, p, Font.systemFont(9.5), AMBER)
     t.lineLimit = 2
     t.minimumScaleFactor = 0.85
     left.addSpacer(5)
