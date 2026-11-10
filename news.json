@@ -1,29 +1,41 @@
 {
-  "updated": "Nov 10",
+  "updated": "Nov 11",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Preload is live on PS5 and Xbox (212GB) ahead of the Nov 19 launch. No PC date.",
-      "url": "https://unboxholics.com/en/news/gaming/138685-new-gta-6-trailer-just-dropped"
+      "text": "Most pre-ordered game ever on PS and Xbox stores. 30fps on consoles; no PC date.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Passes 25M units; Zelda remake starts strong.",
-      "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-being-off-to-a-great-start-proves-switch-2-price-hike-isnt-slowing-momentum-nintendo-president-says/"
-    },
-    {
-      "tag": "Luna Ultra",
-      "color": "#ffd60a",
-      "text": "Nothing new. Last update added 15x zoom.",
-      "url": "https://www.prnewswire.com/news-releases/insta360-releases-luna-ultra-firmware-update-with-enhanced-zoom-stage-mode-and-more-302884413.html"
+      "text": "Firmware 23.5.0 patches the jailbreak exploit.",
+      "url": "https://videocardz.com/newz/nintendo-patches-switch-2-jailbreak-with-firmware-23-5-0-blocking-future-game-modding"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic releases Claude Fable 5.2 and Mythos 5.2.",
-      "url": "https://aiweekly.co/ai-news-today"
+      "text": "Google ships Gemini 4 Carbon to API and Ultra users.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
+    },
+    {
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Sells first paid AI usage packs: $49.99 in Logic Pro.",
+      "url": "https://www.cultofmac.com/news/apple-intelligence-usage-packs-logic-pro"
+    },
+    {
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "PS5 Prism see-through controller pre-orders open.",
+      "url": "https://www.techradar.com/live/news/ps5-prism-collection-dualsense-console-covers-pre-orders-stock-live"
+    },
+    {
+      "tag": "Luna Ultra",
+      "color": "#ffd60a",
+      "text": "Nothing new today. Firmware still v1.1.15.",
+      "url": "https://updatemystuff.com/insta360/insta360-luna-ultra"
     }
   ]
 }
