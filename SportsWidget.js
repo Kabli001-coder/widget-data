@@ -41,7 +41,7 @@ function fplRows() {
   const saudi = classic.find(l => l.name === "Saudi Arabia")
   const overall = classic.find(l => l.name === "Overall")
   const rows = []
-  if (priv) rows.push(["League", priv])
+  if (priv) rows.push(["A.I.S", priv])
   if (saudi) rows.push(["Saudi", saudi])
   if (overall) rows.push(["Overall", overall])
   return rows
