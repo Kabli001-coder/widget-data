@@ -12,6 +12,41 @@ try {
   data = fm.fileExists(cachePath) ? JSON.parse(fm.readString(cachePath)) : null
 }
 
+// Live FPL points and ranks, read straight from the public FPL site on each refresh
+const FPL_TEAM_ID = 400195
+const fplCache = fm.joinPath(fm.cacheDirectory(), "claude-fpl.json")
+let fpl = null
+try {
+  const r = new Request("https://fantasy.premierleague.com/api/entry/" + FPL_TEAM_ID + "/")
+  r.timeoutInterval = 15
+  fpl = await r.loadJSON()
+  if (!fpl.leagues) throw new Error("bad data")
+  fm.writeString(fplCache, JSON.stringify(fpl))
+} catch (e) {
+  fpl = fm.fileExists(fplCache) ? JSON.parse(fm.readString(fplCache)) : null
+}
+
+function compact(n) {
+  if (n >= 1000000) return (n / 1000000).toFixed(2) + "M"
+  if (n >= 10000) return (n / 1000).toFixed(1) + "K"
+  return String(n)
+}
+
+// Picks: your private league (the biggest invitational one), Saudi Arabia, Overall
+function fplRows() {
+  if (!fpl) return []
+  const classic = (fpl.leagues && fpl.leagues.classic) || []
+  const priv = classic.filter(l => l.league_type === "x")
+    .sort((a, b) => (b.rank_count || 0) - (a.rank_count || 0))[0]
+  const saudi = classic.find(l => l.name === "Saudi Arabia")
+  const overall = classic.find(l => l.name === "Overall")
+  const rows = []
+  if (priv) rows.push(["League", priv])
+  if (saudi) rows.push(["Saudi", saudi])
+  if (overall) rows.push(["Overall", overall])
+  return rows
+}
+
 const DIM = new Color("#ffffff", 0.6)
 const WHITE = Color.white()
 const GREEN = new Color("#34c759")
@@ -149,11 +184,11 @@ if (!data) {
   else { bigText = Math.floor(mins / 1440) + "d"; smallText = Math.floor((mins % 1440) / 60) + "h" }
 
   centered(left, s => {
-    const img = s.addImage(ring(84, 8, progress))
-    img.imageSize = new Size(80, 80)
+    const img = s.addImage(ring(84, 9, progress))
+    img.imageSize = new Size(60, 60)
     return img
   })
-  left.addSpacer(8)
+  left.addSpacer(6)
   centeredText(left, bigText, Font.lightSystemFont(mins <= 0 ? 22 : 30), WHITE)
   if (smallText) centeredText(left, smallText, Font.lightSystemFont(17), WHITE)
   left.addSpacer(8)
@@ -161,10 +196,35 @@ if (!data) {
   left.addSpacer(2)
   centeredText(left, fmt(deadline, "EEE d MMM"), Font.systemFont(10), DIM)
   centeredText(left, fmt(deadline, "h:mm a"), Font.systemFont(10), DIM)
-  left.addSpacer(14)
-  for (const p of (data.problems || []).slice(0, 3)) {
+  // Your gameweek points and league positions, with up/down arrows
+  if (fpl) {
+    left.addSpacer(10)
+    centeredText(left, "GW" + fpl.current_event + " · " + fpl.summary_event_points + " pts", Font.semiboldSystemFont(12), WHITE)
+    left.addSpacer(4)
+    for (const [name, l] of fplRows()) {
+      const r = left.addStack()
+      r.centerAlignContent()
+      const a = r.addText(name)
+      a.font = Font.systemFont(10)
+      a.textColor = DIM
+      r.addSpacer()
+      const b = r.addText(compact(l.entry_rank))
+      b.font = Font.semiboldSystemFont(10.5)
+      b.textColor = WHITE
+      r.addSpacer(3)
+      const last = l.entry_last_rank || 0
+      const up = last > 0 && l.entry_rank < last
+      const down = last > 0 && l.entry_rank > last
+      const c = r.addText(up ? "▲" : down ? "▼" : "–")
+      c.font = Font.systemFont(8)
+      c.textColor = up ? GREEN : down ? new Color("#ff453a") : DIM
+      left.addSpacer(2)
+    }
+  }
+  left.addSpacer(10)
+  for (const p of (data.problems || []).slice(0, 2)) {
     const t = centeredText(left, p, Font.systemFont(10), AMBER)
-    t.lineLimit = 3
+    t.lineLimit = 2
     t.minimumScaleFactor = 0.85
     left.addSpacer(5)
   }
