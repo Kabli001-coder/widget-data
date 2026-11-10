@@ -8,13 +8,16 @@
     { "opp": "Sunderland", "venue": "H", "comp": "PL", "time": "2026-12-02T19:30:00Z" }
   ],
   "problems": [
-    "Virgil: injury doubt, 75% to play",
-    "Gross, Tavernier: 1 yellow from a ban",
-    "Others banned GW11: Thiago, Mateta, Dowman"
+    "Virgil: doubt, 75% to play",
+    "Gross, Tavernier: 1 yellow off ban"
+  ],
+  "padel": [
+    { "title": "KSA juniors v Japan, Australia", "sub": "Asia Junior Cup · Nov 11-12, times TBC" },
+    { "title": "Dubai P1 semi-finals", "sub": "Sat 14 Nov, from 3:00 PM" },
+    { "title": "Dubai P1 men's final", "sub": "Sun 15 Nov, not before 7:00 PM" }
   ],
   "big": [
-    "Thu 12: England v Croatia, Italy v France",
-    "Sun 15: Spain v England, France v Turkiye",
-    "Mon 16: Germany v Netherlands"
+    { "title": "England v Croatia", "sub": "Thu 12 Nov" },
+    { "title": "Spain v England", "sub": "Sun 15 Nov" }
   ]
 }
