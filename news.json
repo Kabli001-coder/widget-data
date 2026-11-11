@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 11",
+  "updated": "Nov 12",
   "items": [
     {
       "tag": "GTA 6",
@@ -14,6 +14,12 @@
       "url": "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html"
     },
     {
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "PS5 officially passes 100 million consoles shipped.",
+      "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/"
+    },
+    {
       "tag": "Tech",
       "color": "#5ac8fa",
       "text": "Senior GOP senator urges Nvidia CEO Huang to resign.",
@@ -24,12 +30,6 @@
       "color": "#7aa2ff",
       "text": "OpenAI Q3 revenue hits $10B, with a $10.9B loss.",
       "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb"
-    },
-    {
-      "tag": "Nintendo",
-      "color": "#ff3b30",
-      "text": "Google and Apple sign-ins end on Jan 26, 2027.",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
     },
     {
       "tag": "Luna Ultra",
