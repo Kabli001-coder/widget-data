@@ -4,37 +4,37 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Preload is live. Sony and Microsoft call it their most pre-ordered game ever.",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/"
+      "text": "Rockstar confirms a 30fps target on consoles, PS5 Pro included. Out Nov 19.",
+      "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Update 23.5.0 adds eShop gifting, starting Nov 17.",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
+      "text": "Zelda Ocarina remake sells 5.2M in 4 days, a record.",
+      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html"
+    },
+    {
+      "tag": "Tech",
+      "color": "#5ac8fa",
+      "text": "Senior GOP senator urges Nvidia CEO Huang to resign.",
+      "url": "https://www.reuters.com/world/china/senior-republican-us-senate-banking-panel-calls-nvidia-ceo-huang-resign-2026-11-11/"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic unveils Claude Sheets, Meetings, Whiteboards.",
-      "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
+      "text": "OpenAI Q3 revenue hits $10B, with a $10.9B loss.",
+      "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb"
     },
     {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Sony cancels PS5 heist shooter Fairgames; no layoffs.",
-      "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/"
-    },
-    {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "HomeView display and new Apple TV 4K launch Friday.",
-      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/"
+      "tag": "Nintendo",
+      "color": "#ff3b30",
+      "text": "Google and Apple sign-ins end on Jan 26, 2027.",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
     },
     {
       "tag": "Luna Ultra",
       "color": "#ffd60a",
-      "text": "Nothing new today. Firmware still v1.1.15.",
+      "text": "Nothing new today. No new firmware or accessories.",
       "url": "https://updatemystuff.com/insta360/insta360-luna-ultra"
     }
   ]
