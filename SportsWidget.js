@@ -50,7 +50,7 @@ function fplRows() {
 // Player problems worked out live from your actual squad (flags, bans, yellow cards)
 async function liveProblems() {
   if (!fpl || !fpl.current_event) return null
-  const cache = fm.joinPath(fm.cacheDirectory(), "claude-fpl-problems.json")
+  const cache = fm.joinPath(fm.cacheDirectory(), "claude-fpl-squad.json")
   try {
     const api = "https://fantasy.premierleague.com/api/"
     const pr = new Request(api + "entry/" + FPL_TEAM_ID + "/event/" + fpl.current_event + "/picks/")
@@ -61,10 +61,11 @@ async function liveProblems() {
     const boot = await br.loadJSON()
     const byId = {}
     for (const e of boot.elements) byId[e.id] = e
-    const out = [], yellows = []
+    const out = [], yellows = [], prices = []
     for (const p of picks.picks.sort((a, b) => a.position - b.position)) {
       const e = byId[p.element]
       if (!e) continue
+      if (e.cost_change_event) prices.push({ name: e.web_name, change: e.cost_change_event / 10, now: e.now_cost / 10 })
       const c = e.chance_of_playing_next_round
       if (e.status === "s") out.push(e.web_name + ": suspended")
       else if (e.status === "i") out.push(e.web_name + ": injured")
@@ -74,10 +75,65 @@ async function liveProblems() {
     }
     if (yellows.length) out.push(yellows.join(", ") + ": 1 yellow off ban")
     if (!out.length) out.push("Your squad: all fit")
-    fm.writeString(cache, JSON.stringify(out))
-    return out
+    prices.sort((a, b) => Math.abs(b.change) - Math.abs(a.change))
+    const result = { problems: out, prices: prices }
+    fm.writeString(cache, JSON.stringify(result))
+    return result
   } catch (e) {
     return fm.fileExists(cache) ? JSON.parse(fm.readString(cache)) : null
+  }
+}
+
+// Live scores from ESPN's public scoreboard, only asked for around kick-off
+const ESPN = { PL: "eng.1", UCL: "uefa.champions", FA: "eng.fa", EFL: "eng.league_cup", UEL: "uefa.europa" }
+const boards = {}
+let anyLive = false
+
+function norm(s) {
+  return String(s).normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+}
+
+function teamMatch(name, display) {
+  const words = norm(name).replace(/\bman\b/, "manchester").replace(/\butd\b/, "united").split(/\s+/)
+  const d = norm(display)
+  return words.every(x => d.includes(x))
+}
+
+function ymd(d) {
+  return d.toISOString().slice(0, 10).replace(/-/g, "")
+}
+
+// Returns { title, sub, live } once a match has kicked off, otherwise null
+async function liveScore(league, time, teamA, teamB) {
+  if (!league || !time) return null
+  const t = new Date(time).getTime()
+  const now = Date.now()
+  if (isNaN(t) || now < t - 10 * 60000 || now > t + 6 * 3600000) return null
+  try {
+    const key = league + ymd(new Date(t))
+    if (!boards[key]) {
+      const range = ymd(new Date(t - 86400000)) + "-" + ymd(new Date(t + 86400000))
+      const r = new Request("https://site.api.espn.com/apis/site/v2/sports/soccer/" + league + "/scoreboard?dates=" + range)
+      r.timeoutInterval = 12
+      boards[key] = (await r.loadJSON()).events || []
+    }
+    const ev = boards[key].find(e => {
+      const c = e.competitions[0].competitors
+      const has = n => c.some(x => teamMatch(n, x.team.displayName))
+      return Math.abs(new Date(e.date).getTime() - t) < 12 * 3600000 && has(teamA) && (!teamB || has(teamB))
+    })
+    if (!ev || ev.status.type.state === "pre") return null
+    const c = ev.competitions[0].competitors
+    const home = c.find(x => x.homeAway === "home"), away = c.find(x => x.homeAway === "away")
+    const live = ev.status.type.state === "in"
+    if (live) anyLive = true
+    return {
+      title: home.team.shortDisplayName + " " + home.score + "-" + away.score + " " + away.team.shortDisplayName,
+      sub: live ? "LIVE " + (ev.status.displayClock || ev.status.type.shortDetail) : "Full time",
+      live: live
+    }
+  } catch (e) {
+    return null
   }
 }
 
@@ -165,7 +221,7 @@ function label(parent, text) {
   parent.addSpacer(4)
 }
 
-function item(parent, title, sub) {
+function item(parent, title, sub, subColor) {
   const a = parent.addText(title)
   a.font = Font.semiboldSystemFont(12)
   a.textColor = WHITE
@@ -174,7 +230,7 @@ function item(parent, title, sub) {
   if (sub) {
     const b = parent.addText(sub)
     b.font = Font.systemFont(10)
-    b.textColor = DIM
+    b.textColor = subColor || DIM
     b.lineLimit = 1
     b.minimumScaleFactor = 0.8
   }
@@ -258,7 +314,8 @@ if (!data) {
     }
   }
   left.addSpacer(10)
-  const problems = (await liveProblems()) || data.problems || []
+  const squad = await liveProblems()
+  const problems = (squad && squad.problems) || data.problems || []
   for (const p of problems.slice(0, 3)) {
     const t = centeredText(left, p, Font.systemFont(9.5), AMBER)
     t.lineLimit = 2
@@ -273,16 +330,20 @@ if (!data) {
   right.setPadding(15, 4, 10, 12)
 
   label(right, "LIVERPOOL")
-  const games = (data.liverpool || []).filter(g => new Date(g.time).getTime() > Date.now() - 2 * 3600000)
+  const RED = new Color("#ff453a")
+  const games = (data.liverpool || []).filter(g => new Date(g.time).getTime() > Date.now() - 6 * 3600000)
   for (const g of games.slice(0, 2)) {
-    item(right, g.opp + " (" + g.venue + ")", g.comp + " · " + fmt(new Date(g.time), "EEE d MMM, h:mm a"))
+    const sc = await liveScore(ESPN[g.comp], g.time, "Liverpool", g.opp)
+    if (sc) item(right, sc.title, g.comp + " · " + sc.sub, sc.live ? RED : null)
+    else item(right, g.opp + " (" + g.venue + ")", g.comp + " · " + fmt(new Date(g.time), "EEE d MMM, h:mm a"))
   }
 
   const padel = (data.padel || []).map(parts)
   if (padel.length) {
     right.addSpacer(4)
     label(right, "PADEL")
-    for (const p of padel.slice(0, 3)) {
+    const hasLines = padel.some(p => p.lines && p.lines.length)
+    for (const p of padel.slice(0, hasLines ? 2 : 3)) {
       item(right, p.title, p.sub)
       // Optional detail lines, e.g. one per junior category with names and score
       if (p.lines && p.lines.length) {
@@ -303,13 +364,45 @@ if (!data) {
   if (big.length) {
     right.addSpacer(4)
     label(right, "BIG GAMES")
-    for (const b of big.slice(0, padel.length ? 2 : 4)) item(right, b.title, b.sub)
+    const upcoming = big.filter(b => !b.time || new Date(b.time).getTime() > Date.now() - 6 * 3600000)
+    for (const b of upcoming.slice(0, padel.length ? 2 : 4)) {
+      const teams = String(b.title).split(" v ")
+      const sc = teams.length === 2 ? await liveScore(b.league, b.time, teams[0], teams[1]) : null
+      if (sc) item(right, sc.title, sc.sub, sc.live ? RED : null)
+      else item(right, b.title, b.time ? fmt(new Date(b.time), "EEE d MMM, h:mm a") : b.sub)
+    }
+  }
+
+  // Price changes this gameweek for players in your squad
+  if (squad && squad.prices) {
+    right.addSpacer(4)
+    label(right, "FPL PRICES")
+    if (!squad.prices.length) {
+      const t = right.addText("No changes for your players")
+      t.font = Font.systemFont(10)
+      t.textColor = DIM
+    }
+    for (const p of squad.prices.slice(0, 2)) {
+      const r = right.addStack()
+      r.centerAlignContent()
+      const up = p.change > 0
+      const a = r.addText(up ? "▲" : "▼")
+      a.font = Font.systemFont(8)
+      a.textColor = up ? GREEN : RED
+      r.addSpacer(5)
+      const n = r.addText(p.name + "  " + (up ? "+" : "") + p.change.toFixed(1) + "  →  £" + p.now.toFixed(1) + "m")
+      n.font = Font.systemFont(11)
+      n.textColor = WHITE
+      n.lineLimit = 1
+      n.minimumScaleFactor = 0.8
+      right.addSpacer(2)
+    }
   }
   root.addSpacer()
 }
 w.addSpacer()
 
-w.refreshAfterDate = new Date(Date.now() + 30 * 60 * 1000)
+w.refreshAfterDate = new Date(Date.now() + (anyLive ? 5 : 30) * 60 * 1000)
 Script.setWidget(w)
 if (!config.runsInWidget) await w.presentLarge()
 Script.complete()

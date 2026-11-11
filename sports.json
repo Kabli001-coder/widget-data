@@ -1,11 +1,34 @@
 {
   "updated": "Nov 11",
-  "deadline": { "gw": 11, "time": "2026-11-21T11:00:00Z" },
+  "deadline": {
+    "gw": 11,
+    "time": "2026-11-21T11:00:00Z"
+  },
   "liverpool": [
-    { "opp": "Man United", "venue": "H", "comp": "PL", "time": "2026-11-22T16:30:00Z" },
-    { "opp": "Club Brugge", "venue": "A", "comp": "UCL", "time": "2026-11-25T20:00:00Z" },
-    { "opp": "Everton", "venue": "A", "comp": "PL", "time": "2026-11-29T12:00:00Z" },
-    { "opp": "Sunderland", "venue": "H", "comp": "PL", "time": "2026-12-02T19:30:00Z" }
+    {
+      "opp": "Man United",
+      "venue": "H",
+      "comp": "PL",
+      "time": "2026-11-22T16:30:00Z"
+    },
+    {
+      "opp": "Club Brugge",
+      "venue": "A",
+      "comp": "UCL",
+      "time": "2026-11-25T20:00:00Z"
+    },
+    {
+      "opp": "Everton",
+      "venue": "A",
+      "comp": "PL",
+      "time": "2026-11-29T12:00:00Z"
+    },
+    {
+      "opp": "Sunderland",
+      "venue": "H",
+      "comp": "PL",
+      "time": "2026-12-02T19:30:00Z"
+    }
   ],
   "problems": [
     "Virgil: unfit, left Dutch squad",
@@ -13,12 +36,31 @@
     "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
-    { "title": "KSA juniors 1-2 Kuwait", "sub": "Australia today; Japan Thu, time TBC" },
-    { "title": "Dubai P1: Coello/Tapia out", "sub": "Semi-finals Sat 14 Nov, from 3:00 PM" },
-    { "title": "Dubai P1 men's final", "sub": "Sun 15 Nov, not before 7:00 PM" }
+    {
+      "title": "KSA juniors 1-2 Kuwait",
+      "sub": "Australia today; Japan Thu, time TBC"
+    },
+    {
+      "title": "Dubai P1: Coello/Tapia out",
+      "sub": "Semi-finals Sat 14 Nov, from 3:00 PM"
+    },
+    {
+      "title": "Dubai P1 men's final",
+      "sub": "Sun 15 Nov, not before 7:00 PM"
+    }
   ],
   "big": [
-    { "title": "England v Croatia", "sub": "Thu 12 Nov, 10:45 PM" },
-    { "title": "Spain v England", "sub": "Sun 15 Nov, 10:45 PM" }
+    {
+      "title": "England v Croatia",
+      "sub": "Thu 12 Nov, 10:45 PM",
+      "time": "2026-11-12T19:45:00Z",
+      "league": "uefa.nations"
+    },
+    {
+      "title": "Spain v England",
+      "sub": "Sun 15 Nov, 10:45 PM",
+      "time": "2026-11-15T19:45:00Z",
+      "league": "uefa.nations"
+    }
   ]
 }
