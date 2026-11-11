@@ -4,14 +4,20 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Take-Two: pre-orders far above plan, no more delays. Still no PC or Switch 2.",
-      "url": "https://vgtimes.com/gaming-news/174065-gta-6-disc-and-pc-updates-will-come-from-rockstar-take-two-ceo-says.html"
+      "text": "Preload is live. Sony and Microsoft call it their most pre-ordered game ever.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/"
     },
     {
-      "tag": "Nintendo",
+      "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Google and Apple account sign-ins end Jan 26, 2027.",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
+      "text": "Update 23.5.0 adds eShop gifting, starting Nov 17.",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic unveils Claude Sheets, Meetings, Whiteboards.",
+      "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
     },
     {
       "tag": "Games",
@@ -20,16 +26,10 @@
       "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Google ships Gemini 4 Carbon to API and Ultra users.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/"
-    },
-    {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "iCloud outage hit Mail, Calendar and Contacts Tuesday.",
-      "url": "https://macrumors.com/2026/11/10/apple-icloud-calendar-outage"
+      "text": "HomeView display and new Apple TV 4K launch Friday.",
+      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/"
     },
     {
       "tag": "Luna Ultra",
