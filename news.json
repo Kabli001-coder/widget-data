@@ -4,14 +4,20 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Most pre-ordered game ever on PS and Xbox stores. 30fps on consoles; no PC date.",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-officially-the-most-pre-ordered-game-in-playstation-and-xbox-store-history-sony-and-microsoft-confirm/"
+      "text": "Take-Two: pre-orders far above plan, no more delays. Still no PC or Switch 2.",
+      "url": "https://vgtimes.com/gaming-news/174065-gta-6-disc-and-pc-updates-will-come-from-rockstar-take-two-ceo-says.html"
     },
     {
-      "tag": "Switch 2",
+      "tag": "Nintendo",
       "color": "#ff3b30",
-      "text": "Firmware 23.5.0 patches the jailbreak exploit.",
-      "url": "https://videocardz.com/newz/nintendo-patches-switch-2-jailbreak-with-firmware-23-5-0-blocking-future-game-modding"
+      "text": "Google and Apple account sign-ins end Jan 26, 2027.",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
+    },
+    {
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Sony cancels PS5 heist shooter Fairgames; no layoffs.",
+      "url": "https://www.pcgamer.com/gaming-industry/sony-cancels-another-live-service-game-ahead-of-release-but-at-least-there-wont-be-any-layoffs-this-time/"
     },
     {
       "tag": "AI",
@@ -22,14 +28,8 @@
     {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "Sells first paid AI usage packs: $49.99 in Logic Pro.",
-      "url": "https://www.cultofmac.com/news/apple-intelligence-usage-packs-logic-pro"
-    },
-    {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "PS5 Prism see-through controller pre-orders open.",
-      "url": "https://www.techradar.com/live/news/ps5-prism-collection-dualsense-console-covers-pre-orders-stock-live"
+      "text": "iCloud outage hit Mail, Calendar and Contacts Tuesday.",
+      "url": "https://macrumors.com/2026/11/10/apple-icloud-calendar-outage"
     },
     {
       "tag": "Luna Ultra",
