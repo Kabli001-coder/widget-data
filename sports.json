@@ -38,15 +38,18 @@
   "padel": [
     {
       "title": "KSA juniors 1-2 Kuwait",
-      "sub": "Australia today; Japan Thu, time TBC"
+      "sub": "Australia today; Japan Thu, time TBC",
+      "comp": "Asia Junior Cup"
     },
     {
       "title": "Dubai P1: Coello/Tapia out",
-      "sub": "Semi-finals Sat 14 Nov, from 3:00 PM"
+      "sub": "Semi-finals Sat 14 Nov, from 3:00 PM",
+      "comp": "Premier Padel"
     },
     {
       "title": "Dubai P1 men's final",
-      "sub": "Sun 15 Nov, not before 7:00 PM"
+      "sub": "Sun 15 Nov, not before 7:00 PM",
+      "comp": "Premier Padel"
     }
   ],
   "big": [
@@ -54,13 +57,15 @@
       "title": "England v Croatia",
       "sub": "Thu 12 Nov, 10:45 PM",
       "time": "2026-11-12T19:45:00Z",
-      "league": "uefa.nations"
+      "league": "uefa.nations",
+      "comp": "Nations League"
     },
     {
       "title": "Spain v England",
       "sub": "Sun 15 Nov, 10:45 PM",
       "time": "2026-11-15T19:45:00Z",
-      "league": "uefa.nations"
+      "league": "uefa.nations",
+      "comp": "Nations League"
     }
   ]
 }
