@@ -4,8 +4,20 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Rockstar confirms a 30fps target on consoles, PS5 Pro included. Out Nov 19.",
-      "url": "https://kotaku.com/gta-6-30-fps-confirmed-ps5-pro-pssr-xbox-cloud-streaming-2000755517"
+      "text": "Sony and Xbox say GTA 6 is their most pre-ordered game ever. Out Nov 19.",
+      "url": "https://gta6times.com/news/gta-6-most-pre-ordered-playstation-xbox-store-history"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic starts IPO roadshow at $70-$78 a share.",
+      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
+    },
+    {
+      "tag": "Nintendo",
+      "color": "#ff3b30",
+      "text": "Nintendo Accounts drop Google, Apple sign-in Jan 26.",
+      "url": "https://www.nintendolife.com/news/2026/11/psa-nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
     },
     {
       "tag": "Switch 2",
@@ -14,22 +26,10 @@
       "url": "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html"
     },
     {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "PS5 officially passes 100 million consoles shipped.",
-      "url": "https://www.videogameschronicle.com/news/playstation-5-officially-clears-100-million-consoles-shipped/"
-    },
-    {
-      "tag": "Tech",
-      "color": "#5ac8fa",
-      "text": "Senior GOP senator urges Nvidia CEO Huang to resign.",
-      "url": "https://www.reuters.com/world/china/senior-republican-us-senate-banking-panel-calls-nvidia-ceo-huang-resign-2026-11-11/"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "OpenAI Q3 revenue hits $10B, with a $10.9B loss.",
-      "url": "https://www.wsj.com/business/earnings/openai-continues-to-suffer-heavy-losses-as-revenue-rises-to-10-billion-d2a96bbb"
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Google's Gemini app starts rolling out on CarPlay.",
+      "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/"
     },
     {
       "tag": "Luna Ultra",
