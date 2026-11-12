@@ -4,32 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Sony and Xbox say GTA 6 is their most pre-ordered game ever. Out Nov 19.",
-      "url": "https://gta6times.com/news/gta-6-most-pre-ordered-playstation-xbox-store-history"
+      "text": "Sensor Tower estimates pre-orders top $1B, about 10.3M copies. Out Nov 19.",
+      "url": "https://vgtimes.com/gaming-news/174302-grand-theft-auto-6-estimated-to-top-1-billion-in-presales-before-launch.html"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Anthropic starts IPO roadshow at $70-$78 a share.",
-      "url": "https://www.cnbc.com/2026/11/10/anthropic-sets-price-range-of-70-to-78-in-upcoming-ipo.html"
-    },
-    {
-      "tag": "Nintendo",
-      "color": "#ff3b30",
-      "text": "Nintendo Accounts drop Google, Apple sign-in Jan 26.",
-      "url": "https://www.nintendolife.com/news/2026/11/psa-nintendo-ending-google-and-apple-sign-ins-on-nintendo-accounts-in-2027"
+      "tag": "Nvidia",
+      "color": "#5ac8fa",
+      "text": "WSJ: Nvidia board set to oust CEO Huang; stock -8%.",
+      "url": "https://www.cbsnews.com/news/nvidia-stock-dives-report-board-prepares-oust-jensen-huang/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Zelda Ocarina remake sells 5.2M in 4 days, a record.",
-      "url": "https://www.nintendo.co.jp/corporate/release/en/2026/261111.html"
+      "text": "Amazon post hints Tomb Raider Catalyst on Switch 2.",
+      "url": "https://www.nintendolife.com/news/2026/11/laras-new-tomb-raider-game-is-apparently-on-its-way-to-switch-2"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Nvidia, Alphabet to buy $10B each in Anthropic IPO.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-alphabet-just-agreed-buy-230701944.html"
     },
     {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "Google's Gemini app starts rolling out on CarPlay.",
-      "url": "https://www.macrumors.com/2026/11/11/google-gemini-apple-carplay/"
+      "text": "HomeView display and new Apple TV 4K launch Friday.",
+      "url": "https://www.macrumors.com/2026/11/09/apple-launching-two-new-products-on-november-13/"
     },
     {
       "tag": "Luna Ultra",
