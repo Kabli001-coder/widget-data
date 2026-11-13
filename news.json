@@ -2,34 +2,34 @@
   "updated": "Nov 13",
   "items": [
     {
-      "tag": "Nvidia",
-      "color": "#5ac8fa",
-      "text": "Huang agrees to testify to Congress by Thanksgiving after quitting Nvidia.",
-      "url": "https://dailycaller.com/2026/11/12/nvidia-jenson-huang-testify-house-foreign-affairs-committee/"
-    },
-    {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "BofA: needs $1.9B in first 3 days. No PC date yet.",
-      "url": "https://www.proactiveinvestors.com/companies/news/1101705/gta-6-needs-1-9bn-opening-weekend-to-satisfy-investors-says-bank-of-america-1101705.html"
-    },
-    {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "HomeView hub and new Apple TV 4K out today, $299 each.",
-      "url": "https://www.macrumors.com/2026/11/12/homeview-first-orders-arriving/"
+      "text": "Mandatory 1GB pre-launch patch is out on PS5 and Xbox. Still no PC date.",
+      "url": "https://www.techtimes.com/articles/330664/20261113/gta-6s-mystery-update-already-your-console-what-story-data-files-reveal.htm"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Black Friday: Mario Kart World bundle $499.99, Nov 22.",
-      "url": "https://mynintendonews.com/2026/11/12/us-nintendo-announces-black-friday-2026-deals/"
+      "text": "Zelda Ocarina remake sold 5.2M in 4 days, a record.",
+      "url": "https://www.nintendo.com/ph/release/2026/20261113.html"
     },
     {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Xbox: Wolfenstein 3 officially in production.",
-      "url": "https://www.nintendolife.com/news/2026/11/wolfenstein-3-is-now-officially-in-production-at-machinegames"
+      "tag": "Nvidia",
+      "color": "#5ac8fa",
+      "text": "Stock sinks 2% after Huang exit; Kress interim CEO.",
+      "url": "https://cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Google releases Gemini 4 Hydrogen for coding, agents.",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+    },
+    {
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "HomeView and new Apple TV 4K on sale now, $299 each.",
+      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
     },
     {
       "tag": "Luna Ultra",
