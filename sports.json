@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 13",
+  "updated": "Nov 14",
   "deadline": {
     "gw": 11,
     "time": "2026-11-21T11:00:00Z"
@@ -44,12 +44,12 @@
     {
       "comp": "Premier Padel",
       "title": "Dubai P1 semi-finals",
-      "sub": "Sat 14 Nov, time TBC"
+      "sub": "Sat 14 Nov: women 3 PM, men 6 PM"
     },
     {
       "comp": "Premier Padel",
-      "title": "Dubai P1 final",
-      "sub": "Sun 15 Nov, time TBC"
+      "title": "Dubai P1 finals",
+      "sub": "Sun 15 Nov: women 5 PM, men 7 PM"
     }
   ],
   "big": [
