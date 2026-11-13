@@ -4,14 +4,14 @@
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Nvidia: Huang out, CFO Kress interim CEO; he agrees to testify to Congress.",
-      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-following-jensen-huangs-resignation-as-ceo-allegations-of-a-third-affair-emerge-195535310.html"
+      "text": "Nvidia closes down 4.3% after Huang resigns; CFO Kress named interim CEO.",
+      "url": "https://abcnews.com/Business/nvidia-stock-sinks-after-ceo-jensen-huang-resigns/story?id=138076153"
     },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Unlocks midnight local time Nov 19. No PC date yet.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/"
+      "text": "YouTube 24h launch stream Nov 18. Still no PC date.",
+      "url": "https://insider-gaming.com/gta-6-youtube-collaborate-for-big-24-hour-livestream/"
     },
     {
       "tag": "Switch 2",
@@ -20,16 +20,16 @@
       "url": "https://mynintendonews.com/2026/11/12/us-nintendo-announces-black-friday-2026-deals/"
     },
     {
+      "tag": "Microsoft",
+      "color": "#5ac8fa",
+      "text": "Microsoft 365 outage: Outlook, Teams down for hours.",
+      "url": "https://www.tomsguide.com/news/live/microsoft-outlook-down-live-updates-outage-11-12-26"
+    },
+    {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "Nvidia, Alphabet to buy $10B each in Anthropic IPO.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-alphabet-just-agreed-buy-230701944.html"
-    },
-    {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "HomeView reviews in; Dec update to fix a Siri bug.",
-      "url": "https://www.macrumors.com/2026/11/12/apple-plans-homeview-update-with-siri-fix/"
     },
     {
       "tag": "Luna Ultra",
