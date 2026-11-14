@@ -4,38 +4,38 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Guardian hands-on: GTA 6 is first GTA to 'encourage empathy'. No PC news yet.",
-      "url": "https://outputlag.com/news/gta-6-first-gta-to-encourage-empathy-rockstar-jason-lucia-start-small/"
+      "text": "GTA 6 out Nov 19; in-game cartoon Macca & Friends teased. No PC date yet.",
+      "url": "https://gamenewsplus.net/news/gta-6s-in-game-animated-series-macca-friends-gets-its-first-trailer-39982/"
     },
     {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Zelda Ocarina remake sold 5.2M in 4 days, a record.",
-      "url": "https://www.nintendo.com/ph/release/2026/20261113.html"
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Game Awards nominees due Nov 17; Zelda, GTA 6 eligible.",
+      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible"
     },
     {
       "tag": "FAA",
       "color": "#5ac8fa",
-      "text": "US flights resume; FBI probes FAA software update.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage"
-    },
-    {
-      "tag": "Microsoft",
-      "color": "#5ac8fa",
-      "text": "Microsoft 365 recovering after near-24-hour outage.",
-      "url": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/"
-    },
-    {
-      "tag": "Nvidia",
-      "color": "#5ac8fa",
-      "text": "Board probes Huang exit; search for new CEO begins.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
+      "text": "3,800+ US flights cut Saturday; old routers blamed.",
+      "url": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-thousands-more-flights-canceled-saturday-officials-blame-overloaded-routers-no-sign-of-cyberattack-140904919.html"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Google releases Gemini 4 Hydrogen for coding, agents.",
-      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
+      "text": "OpenAI launches ChatGPT Wallet for agent purchases.",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
+    },
+    {
+      "tag": "Microsoft",
+      "color": "#5ac8fa",
+      "text": "Microsoft 365 fully restored; network upgrade blamed.",
+      "url": "https://www.wtae.com/article/microsoft-365-outage-restored-worldwide/74429959"
+    },
+    {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Metaphor: ReFantazio Switch 2 patch to fix color bug.",
+      "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch"
     }
   ]
 }
