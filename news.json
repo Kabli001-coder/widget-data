@@ -1,11 +1,17 @@
 {
-  "updated": "Nov 14",
+  "updated": "Nov 15",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Nov 19; in-game cartoon Macca & Friends teased. No PC date yet.",
-      "url": "https://gamenewsplus.net/news/gta-6s-in-game-animated-series-macca-friends-gets-its-first-trailer-39982/"
+      "text": "GTA 6 out Nov 19. Rumor: leaked album lists Dua Lipa, Lana Del Rey. No PC date.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/"
+    },
+    {
+      "tag": "FAA",
+      "color": "#5ac8fa",
+      "text": "5,000+ US flights cut; FAA sees normal by late Sunday.",
+      "url": "https://yahoo.com/news/us/live/faa-ground-stop-latest-updates-thousands-more-flights-canceled-saturday-officials-blame-overloaded-routers-no-sign-of-cyberattack-140904919.html"
     },
     {
       "tag": "Games",
@@ -14,22 +20,16 @@
       "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible"
     },
     {
-      "tag": "FAA",
+      "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "3,800+ US flights cut Saturday; old routers blamed.",
-      "url": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-thousands-more-flights-canceled-saturday-officials-blame-overloaded-routers-no-sign-of-cyberattack-140904919.html"
+      "text": "Nvidia sets Nov 18 all-hands; reports name CEO hopefuls.",
+      "url": "https://en.sedaily.com/society/2026/11/14/nvidia-names-cfo-kress-interim-ceo-plans-all-hands-meeting"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "OpenAI launches ChatGPT Wallet for agent purchases.",
       "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-    },
-    {
-      "tag": "Microsoft",
-      "color": "#5ac8fa",
-      "text": "Microsoft 365 fully restored; network upgrade blamed.",
-      "url": "https://www.wtae.com/article/microsoft-365-outage-restored-worldwide/74429959"
     },
     {
       "tag": "Switch 2",
