@@ -14,28 +14,28 @@
       "url": "https://www.nintendo.com/ph/release/2026/20261113.html"
     },
     {
+      "tag": "FAA",
+      "color": "#5ac8fa",
+      "text": "US flights resume; FBI probes FAA software update.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage"
+    },
+    {
+      "tag": "Microsoft",
+      "color": "#5ac8fa",
+      "text": "Microsoft 365 recovering after near-24-hour outage.",
+      "url": "https://www.macrumors.com/2026/11/13/microsoft-365-outage-resolving/"
+    },
+    {
       "tag": "Nvidia",
       "color": "#5ac8fa",
       "text": "Board probes Huang exit; search for new CEO begins.",
       "url": "https://www.aljazeera.com/news/2026/11/13/nvidia-scandal-whats-next-for-the-us-tech-company"
     },
     {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Xbox confirms Wolfenstein 3 is in production.",
-      "url": "https://gamingroute.com/wolfenstein-3-announced/"
-    },
-    {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "Google releases Gemini 4 Hydrogen for coding, agents.",
       "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-13-2026/"
-    },
-    {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "HomeView and new Apple TV 4K on sale now, $299 each.",
-      "url": "https://www.macrumors.com/2026/11/13/apple-launches-two-products-today/"
     }
   ]
 }
