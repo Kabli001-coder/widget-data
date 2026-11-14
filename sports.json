@@ -39,33 +39,33 @@
     {
       "comp": "Asia Junior Cup",
       "title": "KSA juniors 0-2 Iran (SF)",
-      "sub": "3rd place v KAZ/KUW, Sat, time TBC"
+      "sub": "3rd place v Kazakhstan, Sat 10 AM"
     },
     {
       "comp": "Premier Padel",
-      "title": "Dubai P1 semi-finals",
-      "sub": "Sat 14 Nov: women 3 PM, men 6 PM"
+      "title": "Lebron/Augsburger v Abbate",
+      "sub": "Dubai SF, Sat 14 Nov, about 7 PM"
     },
     {
       "comp": "Premier Padel",
-      "title": "Dubai P1 finals",
-      "sub": "Sun 15 Nov: women 5 PM, men 7 PM"
+      "title": "Josemaria/Bea v Ari/Ustero",
+      "sub": "Dubai SF, Sat 14 Nov, about 5 PM"
     }
   ],
   "big": [
     {
-      "title": "Serbia v Germany",
-      "sub": "Fri 13 Nov, 10:45 PM",
-      "time": "2026-11-13T19:45:00Z",
-      "league": "uefa.nations",
-      "comp": "Nations League"
+      "comp": "Nations League",
+      "title": "Portugal v Denmark",
+      "sub": "Sat 14 Nov, 10:45 PM",
+      "time": "2026-11-14T19:45:00Z",
+      "league": "uefa.nations"
     },
     {
+      "comp": "Nations League",
       "title": "Spain v England",
       "sub": "Sun 15 Nov, 10:45 PM",
       "time": "2026-11-15T19:45:00Z",
-      "league": "uefa.nations",
-      "comp": "Nations League"
+      "league": "uefa.nations"
     }
   ]
 }
