@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 14",
+  "updated": "Nov 15",
   "deadline": {
     "gw": 11,
     "time": "2026-11-21T11:00:00Z"
@@ -32,24 +32,19 @@
   ],
   "problems": [
     "Virgil: 75%, left Dutch squad",
-    "Konsa: knee, back in Eng training",
+    "Konsa: trained, may face Spain",
     "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
     {
-      "comp": "Asia Junior Cup",
-      "title": "KSA juniors finish 4th",
-      "sub": "Lost 3rd place tie to Kazakhstan"
+      "comp": "Premier Padel",
+      "title": "Men's final, Sun 7:00 PM",
+      "sub": "Lebron/Augsburger v Libaak/Alfonso"
     },
     {
       "comp": "Premier Padel",
       "title": "Paula/Bea v Fernandez/Calvo",
       "sub": "Dubai final, Sun 15 Nov, 5:00 PM"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Dubai P1 men's final",
-      "sub": "Sun 15 Nov, not before 7:00 PM"
     }
   ],
   "big": [
