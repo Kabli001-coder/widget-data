@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 15",
+  "updated": "Nov 16",
   "items": [
     {
       "tag": "GTA 6",
@@ -10,14 +10,14 @@
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Investors, 115K+ petition urge Nvidia to rehire Huang.",
-      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
+      "text": "FT: Huang discusses comeback as Nvidia CEO with allies.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-discusses-comeback-nvidia-192628314.html"
     },
     {
-      "tag": "Security",
+      "tag": "SpaceX",
       "color": "#5ac8fa",
-      "text": "Cursor confirms breach behind fake Claude Code add-on.",
-      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+      "text": "SpaceX catches Starship upper stage for first time.",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
     },
     {
       "tag": "Switch 2",
@@ -26,16 +26,16 @@
       "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update"
     },
     {
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Gurman: Apple glasses to run iPhone apps via Siri AI.",
+      "url": "https://www.iclarified.com/103536/apples-smart-glasses-to-control-iphone-apps-through-siri-ai-gurman"
+    },
+    {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "Report: Anthropic's $64B IPO is 6x oversubscribed.",
       "url": "https://www.calcalistech.com/ctechnews/article/6reux2chn"
-    },
-    {
-      "tag": "FAA",
-      "color": "#5ac8fa",
-      "text": "FAA expects normal US flights by end of Sunday.",
-      "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
     }
   ]
 }
