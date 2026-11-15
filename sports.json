@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 15",
+  "updated": "Nov 16",
   "deadline": {
     "gw": 11,
     "time": "2026-11-21T11:00:00Z"
@@ -32,19 +32,24 @@
   ],
   "problems": [
     "Virgil: 75%, left Dutch squad",
-    "Konsa: declared fit for Spain",
+    "Konsa: fit, scored v Spain",
     "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
     {
       "comp": "Premier Padel",
-      "title": "Men's final, Sun 7:00 PM",
-      "sub": "Lebron/Augsburger v Libaak/Alfonso"
+      "title": "Lebron/Augsburger win Dubai",
+      "sub": "bt Libaak/Alfonso 7-6 5-7 6-3"
     },
     {
       "comp": "Premier Padel",
-      "title": "Paula/Bea v Fernandez/Calvo",
-      "sub": "Dubai final, Sun 15 Nov, 5:00 PM"
+      "title": "Fernandez/Calvo win Dubai",
+      "sub": "bt Josemaria/Gonzalez 7-5 6-1"
+    },
+    {
+      "comp": "Premier Padel",
+      "title": "Next: Mexico Major, Acapulco",
+      "sub": "Starts Mon 23 Nov"
     }
   ],
   "big": [
