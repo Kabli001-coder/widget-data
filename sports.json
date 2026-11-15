@@ -50,16 +50,16 @@
   "big": [
     {
       "comp": "Nations League",
-      "title": "Portugal v Denmark",
-      "sub": "Sat 14 Nov, 10:45 PM",
-      "time": "2026-11-14T19:45:00Z",
+      "title": "Spain v England",
+      "sub": "Sun 15 Nov, 10:45 PM",
+      "time": "2026-11-15T19:45:00Z",
       "league": "uefa.nations"
     },
     {
       "comp": "Nations League",
-      "title": "Spain v England",
-      "sub": "Sun 15 Nov, 10:45 PM",
-      "time": "2026-11-15T19:45:00Z",
+      "title": "Germany v Netherlands",
+      "sub": "Mon 16 Nov, 10:45 PM",
+      "time": "2026-11-16T19:45:00Z",
       "league": "uefa.nations"
     }
   ]
