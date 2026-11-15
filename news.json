@@ -4,20 +4,26 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Nov 19. Time-off requests for launch day up 13%. Still no PC date.",
-      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html"
+      "text": "GTA 6 out Nov 19. Some disc-free box copies reported with missing or used codes.",
+      "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883"
     },
     {
-      "tag": "FAA",
+      "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "5,200+ US flights cut Saturday; normal by late Sunday.",
-      "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
+      "text": "Investors, 115K+ petition urge Nvidia to rehire Huang.",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Nonprofits sue OpenAI, Google, others to freeze AI.",
-      "url": "https://www.yahoo.com/news/politics/articles/openai-anthropic-google-other-ai-170102973.html"
+      "text": "Report: Anthropic's $64B IPO is 6x oversubscribed.",
+      "url": "https://www.calcalistech.com/ctechnews/article/6reux2chn"
+    },
+    {
+      "tag": "FAA",
+      "color": "#5ac8fa",
+      "text": "FAA expects normal US flights by end of Sunday.",
+      "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
     },
     {
       "tag": "Games",
@@ -26,16 +32,10 @@
       "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible"
     },
     {
-      "tag": "Nvidia",
-      "color": "#5ac8fa",
-      "text": "Nvidia sets Nov 18 all-hands; CEO candidates floated.",
-      "url": "https://en.sedaily.com/society/2026/11/14/nvidia-names-cfo-kress-interim-ceo-plans-all-hands-meeting"
-    },
-    {
-      "tag": "Steam",
+      "tag": "Take-Two",
       "color": "#34c759",
-      "text": "Steam review backlog delays indie game launches.",
-      "url": "https://www.dexerto.com/gaming/steam-review-backlog-forces-indie-developers-to-delay-game-releases-as-ai-submissions-reportedly-clog-queue-3428233/"
+      "text": "Take-Two CEO slams OpenAI, Anthropic over game clones.",
+      "url": "https://vgtimes.com/gaming-news/174620-ahead-of-gta-6-take-two-ceo-calls-out-openai-and-anthropic-over-game-clones.html"
     }
   ]
 }
