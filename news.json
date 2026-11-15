@@ -4,14 +4,20 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Nov 19. Rumor: leaked album lists Dua Lipa, Lana Del Rey. No PC date.",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-the-album-seemingly-leaks-with-dua-lipa-and-lana-del-rey-as-part-of-the-full-34-song-tracklist/"
+      "text": "GTA 6 out Nov 19. Time-off requests for launch day up 13%. Still no PC date.",
+      "url": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html"
     },
     {
       "tag": "FAA",
       "color": "#5ac8fa",
-      "text": "5,000+ US flights cut; FAA sees normal by late Sunday.",
-      "url": "https://yahoo.com/news/us/live/faa-ground-stop-latest-updates-thousands-more-flights-canceled-saturday-officials-blame-overloaded-routers-no-sign-of-cyberattack-140904919.html"
+      "text": "5,200+ US flights cut Saturday; normal by late Sunday.",
+      "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Nonprofits sue OpenAI, Google, others to freeze AI.",
+      "url": "https://www.yahoo.com/news/politics/articles/openai-anthropic-google-other-ai-170102973.html"
     },
     {
       "tag": "Games",
@@ -26,16 +32,10 @@
       "url": "https://en.sedaily.com/society/2026/11/14/nvidia-names-cfo-kress-interim-ceo-plans-all-hands-meeting"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "OpenAI launches ChatGPT Wallet for agent purchases.",
-      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html"
-    },
-    {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Metaphor: ReFantazio Switch 2 patch to fix color bug.",
-      "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch"
+      "tag": "Steam",
+      "color": "#34c759",
+      "text": "Steam review backlog delays indie game launches.",
+      "url": "https://www.dexerto.com/gaming/steam-review-backlog-forces-indie-developers-to-delay-game-releases-as-ai-submissions-reportedly-clog-queue-3428233/"
     }
   ]
 }
