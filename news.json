@@ -14,6 +14,18 @@
       "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html"
     },
     {
+      "tag": "Security",
+      "color": "#5ac8fa",
+      "text": "Cursor confirms breach behind fake Claude Code add-on.",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/"
+    },
+    {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Minecraft on Switch 2 to get Joy-Con mouse controls.",
+      "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update"
+    },
+    {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "Report: Anthropic's $64B IPO is 6x oversubscribed.",
@@ -24,18 +36,6 @@
       "color": "#5ac8fa",
       "text": "FAA expects normal US flights by end of Sunday.",
       "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140"
-    },
-    {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Game Awards nominees due Nov 17; Zelda, GTA 6 eligible.",
-      "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible"
-    },
-    {
-      "tag": "Take-Two",
-      "color": "#34c759",
-      "text": "Take-Two CEO slams OpenAI, Anthropic over game clones.",
-      "url": "https://vgtimes.com/gaming-news/174620-ahead-of-gta-6-take-two-ceo-calls-out-openai-and-anthropic-over-game-clones.html"
     }
   ]
 }
