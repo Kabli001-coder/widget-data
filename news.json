@@ -1,17 +1,23 @@
 {
-  "updated": "Nov 16",
+  "updated": "Nov 17",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Nov 19. Some disc-free box copies reported with missing or used codes.",
-      "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883"
+      "text": "GTA 6 out Nov 19. Hacker behind the 2022 leak pleads guilty in London.",
+      "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500"
     },
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Nvidia shares slip; FT says Huang weighs CEO return.",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/16/nvidia-shares-slip-in-premarket-as-jensen-huang-reportedly-weighs-ceo-comeback/"
+      "text": "Nvidia falls 4%; report says board won't rehire Huang.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+    },
+    {
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Game Awards nominees revealed today, 8pm Riyadh.",
+      "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november"
     },
     {
       "tag": "Apple",
@@ -20,22 +26,16 @@
       "url": "https://www.techtimes.com/articles/330790/20261116/apple-siri-ai-glasses-new-wearable-reportedly-coming-next-year-compete-meta-android-xr.htm"
     },
     {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic IPO expected to start trading Thursday.",
+      "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/"
+    },
+    {
       "tag": "Robotaxi",
       "color": "#5ac8fa",
       "text": "Zoox robotaxis go live on the Uber app in Las Vegas.",
       "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
-    },
-    {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Minecraft Dungeons II first DLC arrives next month.",
-      "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Report: Anthropic's $64B IPO is 6x oversubscribed.",
-      "url": "https://www.calcalistech.com/ctechnews/article/6reux2chn"
     }
   ]
 }
