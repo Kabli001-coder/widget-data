@@ -10,26 +10,26 @@
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Calls grow in tech for Huang to return as Nvidia CEO.",
-      "url": "https://www.cnbc.com/2026/11/16/nvidia-jensen-huang-return-tech.html"
-    },
-    {
-      "tag": "SpaceX",
-      "color": "#5ac8fa",
-      "text": "SpaceX catches Starship upper stage for first time.",
-      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html"
-    },
-    {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Minecraft on Switch 2 to get Joy-Con mouse controls.",
-      "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update"
+      "text": "Nvidia shares slip; FT says Huang weighs CEO return.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/16/nvidia-shares-slip-in-premarket-as-jensen-huang-reportedly-weighs-ceo-comeback/"
     },
     {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "Apple launches US study app for AI health questions.",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health"
+      "text": "Rumor: Apple to show display-free AI glasses at WWDC.",
+      "url": "https://www.techtimes.com/articles/330790/20261116/apple-siri-ai-glasses-new-wearable-reportedly-coming-next-year-compete-meta-android-xr.htm"
+    },
+    {
+      "tag": "Robotaxi",
+      "color": "#5ac8fa",
+      "text": "Zoox robotaxis go live on the Uber app in Las Vegas.",
+      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
+    },
+    {
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Minecraft Dungeons II first DLC arrives next month.",
+      "url": "https://www.nintendolife.com/news/2026/11/minecraft-dungeons-ii-first-dlc-the-humblers-awaken-arrives-next-month"
     },
     {
       "tag": "AI",
