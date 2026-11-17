@@ -4,14 +4,14 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Nov 19. Hacker behind the 2022 leak pleads guilty in London.",
-      "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500"
+      "text": "GTA 6 out Thursday. Rockstar shows Leonida storms in 6 new screenshots.",
+      "url": "https://timesaver.gg/blog/gta-6-weather"
     },
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Nvidia falls 4%; report says board won't rehire Huang.",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"
+      "text": "Nvidia earnings tonight after close; $109B expected.",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262306518-nvidia-q3-earnings-ai-chip-delivery-ceo-transition-tradingkey"
     },
     {
       "tag": "Games",
@@ -20,22 +20,22 @@
       "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november"
     },
     {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "Rumor: Apple to show display-free AI glasses at WWDC.",
-      "url": "https://www.techtimes.com/articles/330790/20261116/apple-siri-ai-glasses-new-wearable-reportedly-coming-next-year-compete-meta-android-xr.htm"
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "eShop game gifting for family groups due today.",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
+    },
+    {
+      "tag": "Chips",
+      "color": "#5ac8fa",
+      "text": "US closes loophole on China's remote Nvidia chip use.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/11/16/us-closes-loophole-that-allowed-china-to-remotely-access-nvidia-chips/"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "Anthropic IPO expected to start trading Thursday.",
       "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/"
-    },
-    {
-      "tag": "Robotaxi",
-      "color": "#5ac8fa",
-      "text": "Zoox robotaxis go live on the Uber app in Las Vegas.",
-      "url": "https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/"
     }
   ]
 }
