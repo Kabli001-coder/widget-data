@@ -55,17 +55,17 @@
   "big": [
     {
       "comp": "Nations League",
-      "title": "Germany v Netherlands",
-      "sub": "Mon 16 Nov, 10:45 PM",
-      "time": "2026-11-16T19:45:00Z",
-      "league": "uefa.nations"
-    },
-    {
-      "comp": "Nations League",
       "title": "Wales v Portugal",
       "sub": "Tue 17 Nov, 10:45 PM",
       "time": "2026-11-17T19:45:00Z",
       "league": "uefa.nations"
+    },
+    {
+      "comp": "Premier League",
+      "title": "Newcastle United v Arsenal",
+      "sub": "Sat 21 Nov, 8:30 PM",
+      "time": "2026-11-21T17:30:00Z",
+      "league": "eng.1"
     }
   ]
 }
