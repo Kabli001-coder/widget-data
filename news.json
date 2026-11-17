@@ -4,32 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Thursday. Sony ships PS5 security update 14.23 ahead of launch.",
-      "url": "https://www.playstationlifestyle.net/2026/11/17/ps5-system-software-firmware-update-november-17-2026"
+      "text": "GTA 6 out Thursday. Rumor: reviews land Wednesday; Rockstar hasn't confirmed.",
+      "url": "https://thepcenthusiast.com/gta-6-reviews-metacritic-score-embargo/"
     },
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Nvidia earnings tonight after close; $109B expected.",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262306518-nvidia-q3-earnings-ai-chip-delivery-ceo-transition-tradingkey"
+      "text": "Nvidia earnings tonight; stock at a 16-month low.",
+      "url": "https://www.cnbc.com/2026/11/17/nvidias-kress-faces-earnings-test-after-stock-drags-wall-street-into-the-red.html"
     },
     {
       "tag": "Games",
       "color": "#34c759",
-      "text": "Game Awards nominees revealed today, 8pm Riyadh.",
+      "text": "Game Awards nominees revealed tonight, 8pm Riyadh.",
       "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "California sues OpenAI, alleging 80+ agent escapes.",
+      "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "eShop game gifting for family groups due today.",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
-    },
-    {
-      "tag": "Chips",
-      "color": "#5ac8fa",
-      "text": "Chip stocks slide worldwide on new US AI chip curbs.",
-      "url": "https://www.swissinfo.ch/eng/stock-losses-deepen-before-nvidia,-oil-declines:-markets-wrap/92391739"
+      "text": "Zelda OoT remake is 2026's top US physical game.",
+      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us"
     },
     {
       "tag": "AI",
