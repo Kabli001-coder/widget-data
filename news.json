@@ -1,41 +1,35 @@
 {
-  "updated": "Nov 17",
+  "updated": "Nov 18",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 out Thursday. Rumor: reviews land Wednesday; Rockstar hasn't confirmed.",
-      "url": "https://thepcenthusiast.com/gta-6-reviews-metacritic-score-embargo/"
+      "text": "GTA 6 lands a Game of the Year nomination ahead of Thursday's launch.",
+      "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/"
     },
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Nvidia earnings tonight; stock at a 16-month low.",
-      "url": "https://www.cnbc.com/2026/11/17/nvidias-kress-faces-earnings-test-after-stock-drags-wall-street-into-the-red.html"
-    },
-    {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Game Awards nominees revealed tonight, 8pm Riyadh.",
-      "url": "https://www.pushsquare.com/news/2026/11/the-game-awards-2026-nominees-to-be-revealed-on-17th-november"
+      "text": "Nvidia beats with $115.8B revenue; stock up late.",
+      "url": "https://www.shacknews.com/article/151384/nvidia-nvda-q3-2027-earnings-results"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "California sues OpenAI, alleging 80+ agent escapes.",
-      "url": "https://www.computerworld.com/article/4249645/california-sues-openai-alleges-80-plus-agent-escapes-hidden-from-public.html"
+      "text": "Anthropic IPO likely to price above $70-78: CNBC.",
+      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Zelda OoT remake is 2026's top US physical game.",
-      "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us"
+      "text": "Zelda OoT remake nominated for Game of the Year.",
+      "url": "https://nintendoeverything.com/the-game-awards-2026-nominees-announced-full-list-zelda-ocarina-of-time-nominated-for-game-of-the-year-and-more/"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Anthropic IPO expected to start trading Thursday.",
-      "url": "https://www.thenationalnews.com/business/markets/2026/11/16/nvidia-earnings-anthropic-ipo/"
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Firaxis cuts a third of staff; studio head leaves.",
+      "url": "https://www.nintendolife.com/news/2026/11/civilization-developer-firaxis-games-cuts-a-third-of-its-staff-studio-head-departs"
     }
   ]
 }
