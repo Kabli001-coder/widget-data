@@ -4,26 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 lands a Game of the Year nomination ahead of Thursday's launch.",
-      "url": "https://variety.com/2026/awards/news/game-awards-nominations-2026-list-1236949480/"
+      "text": "GTA 6 out Thursday with 8 Game Awards nods; reviews reportedly due today.",
+      "url": "https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/"
     },
     {
       "tag": "Nvidia",
       "color": "#5ac8fa",
-      "text": "Nvidia beats with $115.8B revenue; stock up late.",
-      "url": "https://www.shacknews.com/article/151384/nvidia-nvda-q3-2027-earnings-results"
+      "text": "Nvidia won't rehire Huang; SEC probe reported.",
+      "url": "https://bworldonline.com/technology/2026/11/18/794668/nvidia-says-no-to-rehiring-huang-and-wsj-reports-sec-is-probing-the-chipmaker/"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic IPO likely to price above $70-78: CNBC.",
-      "url": "https://www.cnbc.com/2026/11/17/anthropic-ipo-price.html"
+      "text": "OpenAI launches GPT-6.2 Astra and Sol models.",
+      "url": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Zelda OoT remake nominated for Game of the Year.",
-      "url": "https://nintendoeverything.com/the-game-awards-2026-nominees-announced-full-list-zelda-ocarina-of-time-nominated-for-game-of-the-year-and-more/"
+      "text": "GDC survey: devs favor Switch 2 over PS5 and Xbox.",
+      "url": "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic IPO prices today; may top $78: reports.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/"
     },
     {
       "tag": "Games",
