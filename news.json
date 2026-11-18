@@ -1,41 +1,41 @@
 {
-  "updated": "Nov 18",
+  "updated": "Nov 19",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 reviews are in: 99 on Metacritic, 10/10 from IGN and GameSpot. Out Thu.",
-      "url": "https://www.tomsguide.com/news/live/gta-6-review-roundup-live-updates"
+      "text": "GTA 6 is out now on PS5 and Xbox with a 99 Metacritic; Sam Houser thanks fans.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-releases-rockstar-boss-sam-houser-issues-rare-statement-we-are-incredibly-grateful-and-look-forward-to-many-more-years-of-sharing-these-experiences-with-you/"
     },
     {
       "tag": "Luna Ultra",
       "color": "#ffd60a",
-      "text": "Firmware 1.2.7 adds Leica Portrait and Beauty modes.",
-      "url": "https://latestupdate.io/wares/insta360:firmware:insta360-luna-ultra"
+      "text": "Black Friday sale: 689 euros in EU (was 729): report.",
+      "url": "https://www.giuseppegravante.com/insta360-black-friday-2026-la-guida-definitiva-alle-offerte-dal-18-al-30-novembre/"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic prices IPO at $83; trades Thursday as ANT.",
+      "url": "https://www.marketscreener.com/news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-ce785edddc80f624"
+    },
+    {
+      "tag": "Nvidia",
+      "color": "#5ac8fa",
+      "text": "Q3 revenue $115.8B beats estimates; shares slip 2%.",
+      "url": "https://www.briefs.co/news/nvidia-posts-big-beat-as-leadership-questions-and-china-rule/"
+    },
+    {
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
+      "text": "No PC date yet; report points to early 2027.",
+      "url": "https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
       "text": "GDC survey: devs favor Switch 2 over PS5 and Xbox.",
       "url": "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox"
-    },
-    {
-      "tag": "Nvidia",
-      "color": "#5ac8fa",
-      "text": "Nvidia won't rehire Huang; SEC probe reported.",
-      "url": "https://bworldonline.com/technology/2026/11/18/794668/nvidia-says-no-to-rehiring-huang-and-wsj-reports-sec-is-probing-the-chipmaker/"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Anthropic IPO prices today; may top $78: reports.",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-eyes-higher-ipo-price-as-investors-scramble-for-shares/"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "OpenAI launches GPT-6.2 Astra and Sol models.",
-      "url": "https://9to5google.com/2026/11/17/openai-releases-gpt-6-2-astra-and-sol-for-complex-projects-a-week-after-claude-5-2/"
     }
   ]
 }
