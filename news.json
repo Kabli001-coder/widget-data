@@ -4,20 +4,20 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 is out now on PS5 and Xbox with a 99 Metacritic; Sam Houser thanks fans.",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/as-gta-6-finally-releases-rockstar-boss-sam-houser-issues-rare-statement-we-are-incredibly-grateful-and-look-forward-to-many-more-years-of-sharing-these-experiences-with-you/"
-    },
-    {
-      "tag": "Luna Ultra",
-      "color": "#ffd60a",
-      "text": "Black Friday sale: 689 euros in EU (was 729): report.",
-      "url": "https://www.giuseppegravante.com/insta360-black-friday-2026-la-guida-definitiva-alle-offerte-dal-18-al-30-novembre/"
+      "text": "GTA 6 is out: est. 17M copies and $1.65B sold so far; Take-Two stock up 6%.",
+      "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic prices IPO at $83; trades Thursday as ANT.",
+      "text": "Anthropic IPO priced at $83; ANT starts trading today.",
       "url": "https://www.marketscreener.com/news/anthropic-prices-blockbuster-ipo-at-83-a-share-source-says-ce785edddc80f624"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Google launches Gemini 4 Neon for AI Pro and Ultra.",
+      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
     },
     {
       "tag": "Nvidia",
@@ -32,10 +32,10 @@
       "url": "https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/"
     },
     {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "GDC survey: devs favor Switch 2 over PS5 and Xbox.",
-      "url": "https://www.nintendolife.com/news/2026/11/gdc-survey-suggests-devs-want-to-make-games-for-switch-2-more-than-ps5-or-xbox"
+      "tag": "Luna Ultra",
+      "color": "#ffd60a",
+      "text": "Black Friday sale: 689 euros in EU (was 729): report.",
+      "url": "https://www.giuseppegravante.com/insta360-black-friday-2026-la-guida-definitiva-alle-offerte-dal-18-al-30-novembre/"
     }
   ]
 }
