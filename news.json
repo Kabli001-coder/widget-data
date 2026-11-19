@@ -4,32 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 is out: est. 17M copies and $1.65B sold so far; Take-Two stock up 6%.",
-      "url": "https://www.foxbusiness.com/markets/take-two-stock-jumps-over-6-rockstars-long-awaited-gta-vi-arrives-after-13-year-wait"
+      "text": "GTA 6 launch: est. 17M sold, no official figures yet; Take-Two stock down 2%.",
+      "url": "https://financefeeds.com/take-two-stock-gta-vi-launch-day-polymarket/"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic raises record $81.3B in IPO; trades today.",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time"
+      "text": "Anthropic indicated to open near $104, up 25% on IPO.",
+      "url": "https://www.newsquawk.com/headlines/anthropic-ant-shares-indicated-to-open-at-usd-104share-in-their-nasdaq-debut-25-from-the-ipo-price-of-usd-83share"
+    },
+    {
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
+      "text": "No PC date or Switch 2 version; rumor: PC March 2027.",
+      "url": "https://parade.com/entertainment/gta-6-release-pc-ps4-xbox-one-platforms"
+    },
+    {
+      "tag": "PSN",
+      "color": "#34c759",
+      "text": "PSN outage hit US players at GTA 6 launch; now fixed.",
+      "url": "https://www.digit.in/news/gaming/playstation-down-again-thousands-of-users-report-server-connection-and-login-issues.html"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
       "text": "Google launches Gemini 4 Neon for AI Pro and Ultra.",
       "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
-    },
-    {
-      "tag": "Nvidia",
-      "color": "#5ac8fa",
-      "text": "Q3 revenue $115.8B beats estimates; shares slip 2%.",
-      "url": "https://www.briefs.co/news/nvidia-posts-big-beat-as-leadership-questions-and-china-rule/"
-    },
-    {
-      "tag": "GTA 6",
-      "color": "#ff4fa3",
-      "text": "No PC date yet; report points to early 2027.",
-      "url": "https://www.pcgamer.com/games/live/news/grand-theft-auto-6-live-launch-coverage/"
     },
     {
       "tag": "Luna Ultra",
