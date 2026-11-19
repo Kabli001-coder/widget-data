@@ -1,35 +1,35 @@
 {
-  "updated": "Nov 19",
+  "updated": "Nov 20",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 launch: est. 17M sold, no official figures yet; Take-Two stock down 2%.",
-      "url": "https://financefeeds.com/take-two-stock-gta-vi-launch-day-polymarket/"
+      "text": "GTA 6: Sensor Tower estimates 19.1M sold, $1.84B so far; no official figures.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/two-set-shatter-sales-records-162847652.html"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic indicated to open near $104, up 25% on IPO.",
-      "url": "https://www.newsquawk.com/headlines/anthropic-ant-shares-indicated-to-open-at-usd-104share-in-their-nasdaq-debut-25-from-the-ipo-price-of-usd-83share"
+      "text": "Anthropic closes first day at $97.17, up 17% on IPO.",
+      "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
     },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "No PC date or Switch 2 version; rumor: PC March 2027.",
-      "url": "https://parade.com/entertainment/gta-6-release-pc-ps4-xbox-one-platforms"
+      "text": "No PC date yet; analysts expect PC and online in 2027.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/two-set-shatter-sales-records-162847652.html"
     },
     {
-      "tag": "PSN",
-      "color": "#34c759",
-      "text": "PSN outage hit US players at GTA 6 launch; now fixed.",
-      "url": "https://www.digit.in/news/gaming/playstation-down-again-thousands-of-users-report-server-connection-and-login-issues.html"
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Report: Apple working on AI agent to control devices.",
+      "url": "https://bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Google launches Gemini 4 Neon for AI Pro and Ultra.",
-      "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/"
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Nintendo Black Friday deals: $50 off Switch 2 bundle.",
+      "url": "https://tech.yahoo.com/gaming/deals/articles/nintendo-black-friday-2026-deals-153141687.html"
     },
     {
       "tag": "Luna Ultra",
