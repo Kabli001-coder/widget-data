@@ -10,6 +10,12 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
+      "text": "Reuters: some analysts expect PC version in 2027.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/20/take-two-set-to-shatter-sales-records-as-039gta-vi039-launches-to-massive-fanfare"
+    },
+    {
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
       "text": "Digital Foundry: Switch 2 port \"extremely unlikely\".",
       "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility"
     },
@@ -24,12 +30,6 @@
       "color": "#c7c7cc",
       "text": "Report: Apple working on AI agent to control devices.",
       "url": "https://bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding"
-    },
-    {
-      "tag": "Nintendo",
-      "color": "#ff3b30",
-      "text": "Xenoblade Chronicles 3 update 3.0.0 is now live.",
-      "url": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes"
     },
     {
       "tag": "Luna Ultra",
