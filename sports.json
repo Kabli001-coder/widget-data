@@ -31,7 +31,7 @@
     }
   ],
   "problems": [
-    "Virgil: 75%, left Dutch squad",
+    "Virgil: 75%, back in training",
     "Mendy: knee, doubt v Brighton",
     "Gross, Tavernier: 1 yellow off ban"
   ],
@@ -61,11 +61,11 @@
       "league": "eng.1"
     },
     {
-      "comp": "Serie A",
-      "title": "Atalanta v Inter Milan",
-      "sub": "Sun 22 Nov, 10:45 PM",
-      "time": "2026-11-22T19:45:00Z",
-      "league": "ita.1"
+      "comp": "La Liga",
+      "title": "Sevilla v Real Betis",
+      "sub": "Sat 21 Nov, 8:30 PM",
+      "time": "2026-11-21T17:30:00Z",
+      "league": "esp.1"
     }
   ]
 }
