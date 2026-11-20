@@ -1,40 +1,40 @@
 {
-  "updated": "Nov 20",
+  "updated": "Nov 21",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6: Sensor Tower estimates 24.6M sold, $2.36B on day one; not official.",
-      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/"
+      "text": "GTA 6 official: record $3.79B day-one sales, biggest launch ever, says Take-Two.",
+      "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/"
     },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Reuters: some analysts expect PC version in 2027.",
+      "text": "Still no PC date; analysts expect a 2027 port.",
       "url": "https://www.thestar.com.my/tech/tech-news/2026/11/20/take-two-set-to-shatter-sales-records-as-039gta-vi039-launches-to-massive-fanfare"
-    },
-    {
-      "tag": "GTA 6",
-      "color": "#ff4fa3",
-      "text": "Digital Foundry: Switch 2 port \"extremely unlikely\".",
-      "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Mario Kart bundle drops $50 to $499.99 from Nov 22.",
-      "url": "https://www.notebookcheck.net/Nintendo-won-t-restock-Zelda-Switch-2-console-until-2027-dashing-Black-Friday-hopes.1454976.0.html"
+      "text": "Mario Kart bundle drops to $499.99 on Nov 22.",
+      "url": "https://www.tomsguide.com/live/news/black-friday-nintendo-switch-deals-friday-november-20-2026"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Anthropic falls about 5% after-hours on Apple AI plans.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans"
+      "text": "Anthropic falls over 11% a day after record IPO.",
+      "url": "https://techstartups.com/2026/11/20/anthropic-stock-plunges-more-than-11-just-one-day-after-record-breaking-ipo-as-ai-selloff-deepens/"
+    },
+    {
+      "tag": "Tech",
+      "color": "#5ac8fa",
+      "text": "California AG subpoenas Nvidia in China chip probe.",
+      "url": "https://techstartups.com/2026/11/20/top-tech-news-roundup-for-today-november-20-2026-anthropic-stock-slides-gta-vi-hits-3-79-billion-nvidia-faces-subpoena-more/"
     },
     {
       "tag": "Luna Ultra",
       "color": "#ffd60a",
-      "text": "Black Friday sale: 689 euros in EU (was 729): report.",
+      "text": "Nothing new today; Black Friday sale runs to Nov 30.",
       "url": "https://www.giuseppegravante.com/insta360-black-friday-2026-la-guida-definitiva-alle-offerte-dal-18-al-30-novembre/"
     }
   ]
