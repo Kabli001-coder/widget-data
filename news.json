@@ -4,8 +4,14 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6: Sensor Tower estimates 19.1M sold, $1.84B so far; no official figures.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/two-set-shatter-sales-records-162847652.html"
+      "text": "GTA 6: Sensor Tower estimates 24.6M sold, $2.36B on day one; not official.",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/"
+    },
+    {
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
+      "text": "Digital Foundry: Switch 2 port \"extremely unlikely\".",
+      "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility"
     },
     {
       "tag": "AI",
@@ -14,22 +20,16 @@
       "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
     },
     {
-      "tag": "GTA 6",
-      "color": "#ff4fa3",
-      "text": "No PC date yet; analysts expect PC and online in 2027.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/two-set-shatter-sales-records-162847652.html"
-    },
-    {
       "tag": "Apple",
       "color": "#c7c7cc",
       "text": "Report: Apple working on AI agent to control devices.",
       "url": "https://bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding"
     },
     {
-      "tag": "Switch 2",
+      "tag": "Nintendo",
       "color": "#ff3b30",
-      "text": "Nintendo Black Friday deals: $50 off Switch 2 bundle.",
-      "url": "https://tech.yahoo.com/gaming/deals/articles/nintendo-black-friday-2026-deals-153141687.html"
+      "text": "Xenoblade Chronicles 3 update 3.0.0 is now live.",
+      "url": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes"
     },
     {
       "tag": "Luna Ultra",
