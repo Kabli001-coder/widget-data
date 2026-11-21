@@ -1,35 +1,35 @@
 {
-  "updated": "Nov 21",
+  "updated": "Nov 22",
   "items": [
     {
-      "tag": "GTA 6",
-      "color": "#ff4fa3",
-      "text": "GTA 6 official: record $3.79B day-one sales, biggest launch ever, says Take-Two.",
-      "url": "https://www.videogameschronicle.com/news/gta-6-earns-3-79-billion-in-one-day-as-the-biggest-entertainment-launch-in-history/"
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Riemann proof made with Claude is true, independent mathematicians confirm.",
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
     },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "No PC date yet; March 2027 launch is only a rumor.",
-      "url": "https://parade.com/entertainment/gta-6-release-pc-ps4-xbox-one-platforms"
+      "text": "Record $3.79B day one; still no PC or Switch 2 news.",
+      "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Mario Kart bundle drops to $499.99 on Nov 22.",
-      "url": "https://www.tomsguide.com/live/news/black-friday-nintendo-switch-deals-friday-november-20-2026"
+      "text": "Mario Kart bundle $499.99 from today, $50 off.",
+      "url": "https://www.videogameschronicle.com/news/nintendos-black-friday-deals-include-switch-2-and-mario-kart-world-bundle/"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Unverified: Anthropic researcher claims Riemann proof.",
-      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/"
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Report: Apple building own AI agent, eyed for 2027.",
+      "url": "https://thenextweb.com/news/apple-ai-agent-job-listing-computer-use-bloomberg"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Anthropic IPO haul hits $93.5B after greenshoe.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-haul-rises-93-125302553.html"
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Siri settlement: est. $61 per iPhone, claim by Dec 21.",
+      "url": "https://www.macrumors.com/2026/11/21/apple-siri-ai-settlement-payment-amount/"
     },
     {
       "tag": "Luna Ultra",
