@@ -31,40 +31,40 @@
     }
   ],
   "problems": [
-    "Gross, Tavernier: 1 yellow off ban",
-    "King: groin issue, doubt"
+    "Raya: came off injured, MRI due",
+    "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
     {
       "comp": "Premier Padel",
+      "title": "Mexico Major, Acapulco",
+      "sub": "Main draw Mon 23 - Sun 29 Nov"
+    },
+    {
+      "comp": "Premier Padel",
+      "title": "Mexico Major semis and final",
+      "sub": "Sat 28 - Sun 29 Nov, time TBC"
+    },
+    {
+      "comp": "Premier Padel",
       "title": "Lebron/Augsburger win Dubai",
       "sub": "bt Libaak/Alfonso 7-6 5-7 6-3"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Next: Mexico Major, Acapulco",
-      "sub": "Mon 23 - Sun 29 Nov"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Fernandez/Calvo win Dubai",
-      "sub": "bt Josemaria/Gonzalez 7-5 6-1"
     }
   ],
   "big": [
     {
-      "comp": "Premier League",
-      "title": "Newcastle United v Arsenal",
-      "sub": "Sat 21 Nov, 8:30 PM",
-      "time": "2026-11-21T17:30:00Z",
-      "league": "eng.1"
+      "comp": "La Liga",
+      "title": "Barcelona v Villarreal",
+      "sub": "Sun 22 Nov, 4:00 PM",
+      "time": "2026-11-22T13:00:00Z",
+      "league": "esp.1"
     },
     {
-      "comp": "La Liga",
-      "title": "Sevilla v Real Betis",
-      "sub": "Sat 21 Nov, 8:30 PM",
-      "time": "2026-11-21T17:30:00Z",
-      "league": "esp.1"
+      "comp": "Serie A",
+      "title": "Atalanta v Inter Milan",
+      "sub": "Sun 22 Nov, 10:45 PM",
+      "time": "2026-11-22T19:45:00Z",
+      "league": "ita.1"
     }
   ]
 }
