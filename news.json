@@ -1,41 +1,41 @@
 {
-  "updated": "Nov 22",
+  "updated": "Nov 23",
   "items": [
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Riemann proof made with Claude is true, independent mathematicians confirm.",
-      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
-    },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Record $3.79B day one; still no PC or Switch 2 news.",
-      "url": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records"
+      "text": "Report: GTA 6 PC version slated for Q1 2027, per GamesBeat. Not confirmed.",
+      "url": "https://screenrant.com/gta-6-pc-release-date-update-november-2026/"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "After Riemann, unreviewed AI Navier-Stokes proof posted.",
+      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Mario Kart bundle $499.99 from today, $50 off.",
-      "url": "https://www.videogameschronicle.com/news/nintendos-black-friday-deals-include-switch-2-and-mario-kart-world-bundle/"
+      "text": "Binding of Isaac: Repentance+ out, No. 3 on eShop.",
+      "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-november-22-2026-zelda-stays-winning/"
     },
     {
       "tag": "Tech",
       "color": "#5ac8fa",
-      "text": "Signal blocks phone screenshots to keep AI agents out.",
-      "url": "https://digicrusader.com/ai-news-today-22-november-2026/"
+      "text": "OpenRouter drops 3 AI hosts over prompt theft findings.",
+      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
     },
     {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "Report: Apple AI agent not expected until late 2027.",
-      "url": "https://www.digitaltrends.com/computing/apple-ai-agent-delayed-2027/"
+      "text": "Gurman: iPhone 18e, MacBook Neo due early 2027.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review"
     },
     {
       "tag": "Luna Ultra",
       "color": "#ffd60a",
-      "text": "Nothing new today; Black Friday sale runs to Nov 30.",
-      "url": "https://www.giuseppegravante.com/insta360-black-friday-2026-la-guida-definitiva-alle-offerte-dal-18-al-30-novembre/"
+      "text": "Nothing new today; latest firmware is v1.2.7 (Nov 17).",
+      "url": "https://updatemystuff.com/insta360/insta360-luna-ultra"
     }
   ]
 }
