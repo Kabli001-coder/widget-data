@@ -1,5 +1,5 @@
 {
-  "updated": "Nov 22",
+  "updated": "Nov 23",
   "deadline": {
     "gw": 12,
     "time": "2026-11-27T18:30:00Z"
@@ -31,7 +31,7 @@
     }
   ],
   "problems": [
-    "Raya: came off injured, MRI due",
+    "Raya: shoulder, MRI result awaited",
     "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
@@ -53,18 +53,18 @@
   ],
   "big": [
     {
-      "comp": "La Liga",
-      "title": "Barcelona v Villarreal",
-      "sub": "Sun 22 Nov, 4:00 PM",
-      "time": "2026-11-22T13:00:00Z",
-      "league": "esp.1"
-    },
-    {
       "comp": "Serie A",
       "title": "Atalanta v Inter Milan",
       "sub": "Sun 22 Nov, 10:45 PM",
       "time": "2026-11-22T19:45:00Z",
       "league": "ita.1"
+    },
+    {
+      "comp": "Champions League",
+      "title": "Arsenal v Borussia Dortmund",
+      "sub": "Tue 24 Nov, 11:00 PM",
+      "time": "2026-11-24T20:00:00Z",
+      "league": "uefa.champions"
     }
   ]
 }
