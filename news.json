@@ -4,32 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Report: GTA 6 PC version slated for Q1 2027, per GamesBeat. Not confirmed.",
-      "url": "https://screenrant.com/gta-6-pc-release-date-update-november-2026/"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "After Riemann: unreviewed AI Navier-Stokes proof posted",
-      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/"
-    },
-    {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Binding of Isaac: Repentance+ out, No. 3 on eShop.",
-      "url": "https://nintendoeverything.com/nintendo-switch-2-eshop-charts-november-22-2026-zelda-stays-winning/"
-    },
-    {
-      "tag": "Tech",
-      "color": "#5ac8fa",
-      "text": "OpenRouter drops 3 AI hosts over prompt theft findings.",
-      "url": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html"
+      "text": "Unverified leak: fan PC port of GTA 6 Xbox build can't boot; EXE not released.",
+      "url": "https://www.it-connect.tech/gta-6-on-pc-leonida-tries-to-recompile-the-leaked-xbox-build/"
     },
     {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "Gurman: iPhone 18e, MacBook Neo due early 2027.",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review"
+      "text": "Gurman: Apple computer-use agent not before late 2027.",
+      "url": "https://www.digitaltrends.com/computing/apple-ai-agent-delayed-2027/"
+    },
+    {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Zelda Switch 2 sells out at Walmart; next stock Jan.",
+      "url": "https://www.theshortcut.com/p/zelda-switch-2-restock-tracker"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Startup claims AI agents designed a new CPU; no chip.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests"
+    },
+    {
+      "tag": "Tech",
+      "color": "#5ac8fa",
+      "text": "Signal blocks OS AI assistants from reading chats.",
+      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"
     },
     {
       "tag": "Luna Ultra",
