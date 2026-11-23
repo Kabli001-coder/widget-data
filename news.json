@@ -1,11 +1,17 @@
 {
-  "updated": "Nov 23",
+  "updated": "Nov 24",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Unverified: leakers say missing GTA 6 EXE drops today; PS5 patch rolling out.",
-      "url": "https://www.techradar.com/gaming/final-piece-of-claimed-gta-6-leak-set-to-arrive-today-and-theres-hope-it-could-mean-rockstar-launches-the-pc-port-sooner"
+      "text": "Leak: Xbox build EXE is out; modders say GTA 6 still won't run on PC.",
+      "url": "https://vgtimes.com/gaming-news/175511-gta-6-modders-say-it-almost-boots-on-pc-after-xbox-executable-leak.html"
+    },
+    {
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
+      "text": "Analyst estimate: 44.9M copies sold; not confirmed.",
+      "url": "https://vgtimes.com/gaming-news/175474-gta-6-sold-an-estimated-44.9-million-copies-over-launch-weekend.html"
     },
     {
       "tag": "Tech",
@@ -20,16 +26,10 @@
       "url": "https://macdailynews.com/2026/11/23/apple-prepares-slew-of-new-iphones-ipads-and-macs-for-early-2027/"
     },
     {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Switch 2 Mario Kart bundle $499 at Amazon ($50 off).",
-      "url": "https://www.tomsguide.com/live/news/my-top-nintendo-black-friday-deals-monday-november-23-2026"
-    },
-    {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Meta rethinks 2030 net-zero as AI emissions climb.",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+      "text": "Wired: big US banks are blocking third-party AI agents.",
+      "url": "https://9to5mac.com/2026/11/23/as-apple-works-on-ai-agent-features-banks-are-already-blocking-them/"
     },
     {
       "tag": "Luna Ultra",
