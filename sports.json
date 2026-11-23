@@ -31,24 +31,24 @@
     }
   ],
   "problems": [
-    "Raya: shoulder, MRI result awaited",
+    "Raya: no surgery, out v Dortmund",
     "Gross, Tavernier: 1 yellow off ban"
   ],
   "padel": [
     {
       "comp": "Premier Padel",
+      "title": "Mexico Major semi-finals",
+      "sub": "Sun 29 Nov, from 1:00 AM"
+    },
+    {
+      "comp": "Premier Padel",
+      "title": "Mexico Major final",
+      "sub": "Mon 30 Nov, 2:00 AM"
+    },
+    {
+      "comp": "Premier Padel",
       "title": "Mexico Major, Acapulco",
-      "sub": "Main draw Mon 23 - Sun 29 Nov"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Mexico Major semis and final",
-      "sub": "Sat 28 - Sun 29 Nov, time TBC"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Lebron/Augsburger win Dubai",
-      "sub": "bt Libaak/Alfonso 7-6 5-7 6-3"
+      "sub": "Tapia/Coello top seeds; Galan out"
     }
   ],
   "big": [
