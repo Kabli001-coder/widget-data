@@ -4,32 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Unverified leak: fan PC port of GTA 6 Xbox build can't boot; EXE not released.",
-      "url": "https://www.it-connect.tech/gta-6-on-pc-leonida-tries-to-recompile-the-leaked-xbox-build/"
-    },
-    {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "Gurman: Apple computer-use agent not before late 2027.",
-      "url": "https://www.digitaltrends.com/computing/apple-ai-agent-delayed-2027/"
-    },
-    {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Zelda Switch 2 sells out at Walmart; next stock Jan.",
-      "url": "https://www.theshortcut.com/p/zelda-switch-2-restock-tracker"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Startup claims AI agents designed a new CPU; no chip.",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/ai-agents-design-an-entirely-new-cpu-architecture-from-scratch-startup-claims-frostbite-posts-4-59x-the-performance-per-watt-of-an-in-order-core-in-pre-silicon-tests"
+      "text": "Unverified: leakers say missing GTA 6 EXE drops today; PS5 patch rolling out.",
+      "url": "https://www.techradar.com/gaming/final-piece-of-claimed-gta-6-leak-set-to-arrive-today-and-theres-hope-it-could-mean-rockstar-launches-the-pc-port-sooner"
     },
     {
       "tag": "Tech",
       "color": "#5ac8fa",
-      "text": "Signal blocks OS AI assistants from reading chats.",
-      "url": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html"
+      "text": "Bloomberg: Nvidia reinstates Jensen Huang as CEO.",
+      "url": "https://bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"
+    },
+    {
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Gurman: iPhone 18, M6 MacBook Air due early 2027.",
+      "url": "https://macdailynews.com/2026/11/23/apple-prepares-slew-of-new-iphones-ipads-and-macs-for-early-2027/"
+    },
+    {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Switch 2 Mario Kart bundle $499 at Amazon ($50 off).",
+      "url": "https://www.tomsguide.com/live/news/my-top-nintendo-black-friday-deals-monday-november-23-2026"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Meta rethinks 2030 net-zero as AI emissions climb.",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
     },
     {
       "tag": "Luna Ultra",
