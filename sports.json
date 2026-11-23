@@ -6,12 +6,6 @@
   },
   "liverpool": [
     {
-      "opp": "Man United",
-      "venue": "H",
-      "comp": "PL",
-      "time": "2026-11-22T16:30:00Z"
-    },
-    {
       "opp": "Club Brugge",
       "venue": "A",
       "comp": "UCL",
@@ -28,6 +22,12 @@
       "venue": "H",
       "comp": "PL",
       "time": "2026-12-02T19:30:00Z"
+    },
+    {
+      "opp": "Chelsea",
+      "venue": "A",
+      "comp": "PL",
+      "time": "2026-12-05T12:30:00Z"
     }
   ],
   "problems": [
@@ -53,15 +53,15 @@
   ],
   "big": [
     {
-      "comp": "Serie A",
-      "title": "Atalanta v Inter Milan",
-      "sub": "Sun 22 Nov, 10:45 PM",
-      "time": "2026-11-22T19:45:00Z",
-      "league": "ita.1"
+      "comp": "Champions League",
+      "title": "Arsenal v Borussia Dortmund",
+      "sub": "Tue 24 Nov, 11:00 PM",
+      "time": "2026-11-24T20:00:00Z",
+      "league": "uefa.champions"
     },
     {
       "comp": "Champions League",
-      "title": "Arsenal v Borussia Dortmund",
+      "title": "Manchester City v Napoli",
       "sub": "Tue 24 Nov, 11:00 PM",
       "time": "2026-11-24T20:00:00Z",
       "league": "uefa.champions"
