@@ -4,14 +4,14 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Leak: Xbox build EXE is out; modders say GTA 6 still won't run on PC.",
-      "url": "https://vgtimes.com/gaming-news/175511-gta-6-modders-say-it-almost-boots-on-pc-after-xbox-executable-leak.html"
+      "text": "GTA 6's first patch 1.002.002 is out on PS5 and Xbox with crash fixes.",
+      "url": "https://www.well-played.com.au/gta-6-first-patch-rollout-1-002-002/"
     },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Analyst estimate: 44.9M copies sold; not confirmed.",
-      "url": "https://vgtimes.com/gaming-news/175474-gta-6-sold-an-estimated-44.9-million-copies-over-launch-weekend.html"
+      "text": "Leak: Xbox EXE out; modders say it won't run on PC.",
+      "url": "https://vgtimes.com/gaming-news/175511-gta-6-modders-say-it-almost-boots-on-pc-after-xbox-executable-leak.html"
     },
     {
       "tag": "Tech",
@@ -20,16 +20,16 @@
       "url": "https://bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"
     },
     {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Kirby and the World Beyond set for Spring 2027.",
+      "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue"
+    },
+    {
       "tag": "Apple",
       "color": "#c7c7cc",
       "text": "Gurman: iPhone 18, M6 MacBook Air due early 2027.",
       "url": "https://macdailynews.com/2026/11/23/apple-prepares-slew-of-new-iphones-ipads-and-macs-for-early-2027/"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Wired: big US banks are blocking third-party AI agents.",
-      "url": "https://9to5mac.com/2026/11/23/as-apple-works-on-ai-agent-features-banks-are-already-blocking-them/"
     },
     {
       "tag": "Luna Ultra",
