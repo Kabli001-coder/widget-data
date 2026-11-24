@@ -4,32 +4,32 @@
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Analyst estimate: GTA 6 sold about 44.9M copies over its launch weekend.",
-      "url": "https://vgtimes.com/gaming-news/175474-gta-6-sold-an-estimated-44.9-million-copies-over-launch-weekend.html"
-    },
-    {
-      "tag": "GTA 6",
-      "color": "#ff4fa3",
-      "text": "Patch 1.002.002 is out; still no PC version announced.",
-      "url": "https://happygamer.com/gta-6-day-6-live-updates-180833/"
+      "text": "Unofficial GTA 6 PC port boots, then is scrapped; Rockstar takedown alleged.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/"
     },
     {
       "tag": "Tech",
       "color": "#5ac8fa",
-      "text": "Nvidia reinstates Jensen Huang as CEO after 11 days.",
-      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+      "text": "Nvidia board reinstates Jensen Huang as CEO.",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "OpenAI rolls out GPT-6.2 Sol to paid ChatGPT users.",
-      "url": "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/"
+      "text": "Amazon to buy Decart's AI tech in reported $7.5B deal.",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Kirby and the World Beyond set for Spring 2027.",
-      "url": "https://www.nintendolife.com/news/2026/11/kirby-and-the-world-beyond-details-revealed-in-nintendo-catalogue"
+      "text": "Wave Race: Blue Storm joins the GameCube library.",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week"
+    },
+    {
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Rumor: red HomePod mini 2, AirPods Max 2 due Dec 1.",
+      "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/"
     },
     {
       "tag": "Luna Ultra",
