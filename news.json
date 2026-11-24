@@ -1,35 +1,35 @@
 {
-  "updated": "Nov 24",
+  "updated": "Nov 25",
   "items": [
-    {
-      "tag": "GTA 6",
-      "color": "#ff4fa3",
-      "text": "Unofficial GTA 6 PC port boots, then is scrapped; Rockstar takedown alleged.",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/"
-    },
     {
       "tag": "Tech",
       "color": "#5ac8fa",
-      "text": "Nvidia board reinstates Jensen Huang as CEO.",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+      "text": "Report: SpaceX and Tesla boards in talks on a $3.5 trillion all-stock merger.",
+      "url": "https://www.investing.com/news/stock-market-news/spacex-tesla-directors-negotiate-potential-35-trillion-merger-ft-reports-5047091"
     },
     {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "Amazon to buy Decart's AI tech in reported $7.5B deal.",
-      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+      "tag": "GTA 6",
+      "color": "#ff4fa3",
+      "text": "Unofficial PC port scrapped; no official PC version.",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/unofficial-gta-6-pc-port-scrapped-as-rockstar-allegedly-takes-down-discord-server-hours-after-devs-managed-to-get-the-game-booting/"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Wave Race: Blue Storm joins the GameCube library.",
-      "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week"
+      "text": "Zelda edition sold out; Nintendo restock in Jan 2027.",
+      "url": "https://www.gamesradar.com/live/news/legend-of-zelda-switch-2-restocks-black-friday-week-26/"
     },
     {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "Rumor: red HomePod mini 2, AirPods Max 2 due Dec 1.",
-      "url": "https://www.macrumors.com/2026/11/23/product-red-homepod-mini-airpods-max/"
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Lords of the Fallen 2 delayed again, to April 2027.",
+      "url": "https://www.eteknix.com/lords-of-the-fallen-2-suffers-another-delay/"
+    },
+    {
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Anthropic shares fall 12%, dipping below IPO price.",
+      "url": "https://www.cnbc.com/2026/11/24/anthropic-stock-ipo-price.html"
     },
     {
       "tag": "Luna Ultra",
