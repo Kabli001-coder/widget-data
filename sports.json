@@ -54,17 +54,17 @@
   "big": [
     {
       "comp": "Champions League",
-      "title": "Arsenal v Borussia Dortmund",
-      "sub": "Tue 24 Nov, 11:00 PM",
-      "time": "2026-11-24T20:00:00Z",
+      "title": "Paris Saint-Germain v Roma",
+      "sub": "Wed 25 Nov, 11:00 PM",
+      "time": "2026-11-25T20:00:00Z",
       "league": "uefa.champions"
     },
     {
-      "comp": "Champions League",
-      "title": "Manchester City v Napoli",
-      "sub": "Tue 24 Nov, 11:00 PM",
-      "time": "2026-11-24T20:00:00Z",
-      "league": "uefa.champions"
+      "comp": "Premier League",
+      "title": "Arsenal v Manchester City",
+      "sub": "Sun 29 Nov, 7:30 PM",
+      "time": "2026-11-29T16:30:00Z",
+      "league": "eng.1"
     }
   ]
 }
