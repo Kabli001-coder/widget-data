@@ -4,14 +4,14 @@
     {
       "tag": "Tech",
       "color": "#5ac8fa",
-      "text": "Report: SpaceX and Tesla boards in talks on a $3.5 trillion all-stock merger.",
-      "url": "https://www.investing.com/news/stock-market-news/spacex-tesla-directors-negotiate-potential-35-trillion-merger-ft-reports-5047091"
+      "text": "FCC clears SpaceX to launch up to 1 million satellites for AI data centers.",
+      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space"
     },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Take-Two DMCA pulls 3,007 PC port repos; no PC version.",
-      "url": "https://www.gamebrief.net/gta-6/gta-6-pc-release-date-status"
+      "text": "First patch 01.002.002 is out; still no PC version.",
+      "url": "https://happygamer.com/gta-6-day-8-live-updates-184101/"
     },
     {
       "tag": "Switch 2",
@@ -20,21 +20,21 @@
       "url": "https://www.rpgsite.net/news/21825-xenoblade-chronicles-3-switch-2-edition-overview-trailer-new-gameplay"
     },
     {
-      "tag": "Games",
-      "color": "#34c759",
-      "text": "Lords of the Fallen II delayed again, to April 2027.",
-      "url": "https://mmorpg.com/news/lords-of-the-fallen-ii-delayed-again-but-an-exact-launch-date-will-be-revealed-soon-2000139369"
-    },
-    {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "OpenAI says GPT-6 designs proteins without bio tools.",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+      "text": "New York bans AI chatbot toys for kids 12 and under.",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
+    },
+    {
+      "tag": "Apple",
+      "color": "#c7c7cc",
+      "text": "Apple pulls AI chatbot Talkie from App Store worldwide.",
+      "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns"
     },
     {
       "tag": "Games",
       "color": "#34c759",
-      "text": "Silksong: Sea of Sorrow DLC update stream on Nov 27.",
+      "text": "Silksong: Sea of Sorrow DLC update stream this week.",
       "url": "https://www.gamesradar.com/games/action/hollow-knight-silksong-sea-of-sorrow-update-coming-this-week-as-team-cherry-teases-exciting-announcements-in-its-own-nintendo-direct-style-showcase/"
     }
   ]
