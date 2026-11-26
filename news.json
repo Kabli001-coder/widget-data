@@ -1,41 +1,41 @@
 {
-  "updated": "Nov 26",
+  "updated": "Nov 27",
   "items": [
-    {
-      "tag": "Tech",
-      "color": "#5ac8fa",
-      "text": "FCC clears SpaceX to launch up to 1 million satellites for AI data centers.",
-      "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space"
-    },
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "Digital Foundry: Switch 2 port 'extremely unlikely'.",
-      "url": "https://www.nintendolife.com/news/2026/11/gta-6-on-switch-2-digital-foundry-weighs-in-on-the-possibility"
+      "text": "GTA 6 debuts atop Japan's charts with over 200,000 physical copies sold.",
+      "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week"
     },
     {
       "tag": "Switch 2",
       "color": "#ff3b30",
-      "text": "Mario Kart World bundle drops to $499 at Amazon.",
-      "url": "https://www.tomsguide.com/live/news/best-nintendo-black-friday-deals-november-26-2026"
-    },
-    {
-      "tag": "AI",
-      "color": "#7aa2ff",
-      "text": "42 state AGs fight Character.AI sale of private chats.",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/"
+      "text": "Nintendo promises patch for Pikmin 4 Switch 2 loading.",
+      "url": "https://www.nintendolife.com/news/2026/11/nintendo-promises-to-fix-the-long-load-times-on-pikmin-4-switch-2-edition"
     },
     {
       "tag": "Apple",
       "color": "#c7c7cc",
-      "text": "Apple pulls AI chatbot Talkie from App Store worldwide.",
-      "url": "https://9to5mac.com/2026/11/25/apple-pulls-popular-chinese-ai-chatbot-from-the-app-store-amid-child-safety-concerns"
+      "text": "Korea's FTC reviews Apple over iPhone 16 AI ads.",
+      "url": "https://www.macrumors.com/2026/11/26/apple-korea-regulator-iphone-16-ai-advertising/"
     },
     {
       "tag": "Games",
       "color": "#34c759",
-      "text": "Silksong: Sea of Sorrow DLC update stream this week.",
-      "url": "https://www.gamesradar.com/games/action/hollow-knight-silksong-sea-of-sorrow-update-coming-this-week-as-team-cherry-teases-exciting-announcements-in-its-own-nintendo-direct-style-showcase/"
+      "text": "CDPR: Witcher 4 launches on all platforms at once.",
+      "url": "https://www.nintendolife.com/news/2026/11/no-one-gets-left-behind-cdpr-on-the-witcher-4-releasing-for-all-platforms-at-the-same-time"
+    },
+    {
+      "tag": "Games",
+      "color": "#34c759",
+      "text": "Silksong: Sea of Sorrow update due at Nov 27 showcase.",
+      "url": "https://www.pcgamer.com/games/action/dev-team-who-delayed-their-game-a-year-to-avoid-silksong-says-they-wont-do-it-again-for-whatever-team-cherry-announces-tomorrow-this-time-were-staying-put/"
+    },
+    {
+      "tag": "Tech",
+      "color": "#5ac8fa",
+      "text": "Kodak SlideTag: $34.99 AirTag rival with E Ink screen.",
+      "url": "https://www.macrumors.com/2026/11/26/kodak-launches-airtag-rival/"
     }
   ]
 }
