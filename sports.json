@@ -38,18 +38,18 @@
   "padel": [
     {
       "comp": "Premier Padel",
+      "title": "Tapia/Coello v Valenzuela",
+      "sub": "Mexico Major QF, Sat 28 Nov, 1 AM+"
+    },
+    {
+      "comp": "Premier Padel",
+      "title": "Stupaczuk/Sanz out, last 16",
+      "sub": "Lost to Alfonso/Libaak 7-6 4-6 6-4"
+    },
+    {
+      "comp": "Premier Padel",
       "title": "Mexico Major semi-finals",
       "sub": "Sun 29 Nov, from 1:00 AM"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Mexico Major final",
-      "sub": "Mon 30 Nov, 2:00 AM"
-    },
-    {
-      "comp": "Premier Padel",
-      "title": "Mexico Major quarter-finals",
-      "sub": "Sat 28 Nov, from 1:00 AM"
     }
   ],
   "big": [
