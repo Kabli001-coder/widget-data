@@ -1,41 +1,35 @@
 {
-  "updated": "Nov 27",
+  "updated": "Nov 28",
   "items": [
     {
       "tag": "GTA 6",
       "color": "#ff4fa3",
-      "text": "GTA 6 debuts atop Japan's charts with over 200,000 physical copies sold.",
-      "url": "https://www.nintendolife.com/news/2026/11/japanese-charts-no-prizes-for-guessing-what-has-overtaken-zelda-and-switch-2-this-week"
-    },
-    {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Xenoblade 3 Switch 2 Edition gets an overview trailer.",
-      "url": "https://nintendoeverything.com/xenoblade-chronicles-3-nintendo-switch-2-edition-overview-trailer-just-released/"
+      "text": "Report: fans run a leaked GTA 6 build on PC at ~24fps; no official port yet.",
+      "url": "https://kz.kursiv.media/en/2026-11-27/engk-tank-enthusiasts-get-gta-iv-running-on-pc-ahead-of-official-pc-release/"
     },
     {
       "tag": "AI",
       "color": "#7aa2ff",
-      "text": "Apple pulls AI chatbot Talkie over child safety fears.",
-      "url": "https://www.business-standard.com/technology/tech-news/apple-removes-minimax-talkie-ai-chatbot-app-store-child-safety-concerns-126112700412_1.html"
+      "text": "OpenAI countersues Apple in trade secrets fight.",
+      "url": "https://cnn.com/2026/11/27/tech/openai-apple-countersuit"
+    },
+    {
+      "tag": "Switch 2",
+      "color": "#ff3b30",
+      "text": "Square Enix credits Switch 2 for strong results.",
+      "url": "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results"
     },
     {
       "tag": "Games",
       "color": "#34c759",
       "text": "Silksong's free Sea of Sorrow expansion lands Dec 11.",
-      "url": "https://noisypixel.net/hollow-knight-silksong-sea-of-sorrow-december-11-free-expansion/"
+      "url": "https://www.nintendolife.com/news/2026/11/hollow-knight-silksong-sea-of-sorrow-dlc-finally-has-a-release-date"
     },
     {
-      "tag": "Apple",
-      "color": "#c7c7cc",
-      "text": "Gurman: Apple's giant foldable iPad slips to ~2029.",
-      "url": "https://www.macrumors.com/2026/11/26/apple-still-working-on-giant-foldable-ipad/"
-    },
-    {
-      "tag": "Switch 2",
-      "color": "#ff3b30",
-      "text": "Yooka-Laylee Impossible Lair hits Switch 2 on Dec 16.",
-      "url": "https://nintendoeverything.com/yooka-laylee-and-the-impossible-lair-definitive-edition-revealed-for-nintendo-switch-2/"
+      "tag": "AI",
+      "color": "#7aa2ff",
+      "text": "Nvidia halts AI server shipments to Southeast Asia.",
+      "url": "https://ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370"
     }
   ]
 }
